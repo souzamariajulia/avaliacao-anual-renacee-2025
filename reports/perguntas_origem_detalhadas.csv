@@ -1,0 +1,103 @@
+﻿variavel,grupo_origem,pergunta_origem,mapeamento_disponivel,tipo_origem
+idade,EB,Qual sua idade?,True,Perfil
+idade,GRAD,Qual sua idade?,True,Perfil
+idade,POS,Qual sua idade?,True,Perfil
+idade,PROF_EB,Qual sua idade?,True,Perfil
+raca_etnia,EB,Qual sua raça/etnia?,True,Perfil
+raca_etnia,GRAD,Qual sua raça/etnia?,True,Perfil
+raca_etnia,POS,Qual sua raça/etnia?,True,Perfil
+raca_etnia,PROF_EB,Qual sua raça/etnia?,True,Perfil
+genero,EB,,False,Perfil
+genero,GRAD,Com qual gênero você se identifica?,True,Perfil
+genero,POS,Com qual gênero você se identifica?,True,Perfil
+genero,PROF_EB,Com qual gênero você se identifica?,True,Perfil
+cidade_uf,EB,Em que Cidade/Estado você mora?,True,Perfil
+cidade_uf,GRAD,Em que Cidade/Estado você mora?,True,Perfil
+cidade_uf,POS,Em que Cidade/Estado você mora?,True,Perfil
+cidade_uf,PROF_EB,Em que Cidade/Estado você mora?,True,Perfil
+renda_familiar_faixa_sm,EB,Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621),True,Perfil
+renda_familiar_faixa_sm,GRAD,Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621),True,Perfil
+renda_familiar_faixa_sm,POS,Qual o valor aproximado da renda da sua família? Considere família as pessoas que vivem da mesma renda mensal. (O salário mínimo em 2026 no Brasil é de R$ 1.621),True,Perfil
+renda_familiar_faixa_sm,PROF_EB,Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621),True,Perfil
+beneficios_sociais_multirresposta,EB,Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção),True,Perfil
+beneficios_sociais_multirresposta,GRAD,Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção),True,Perfil
+beneficios_sociais_multirresposta,POS,Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção),True,Perfil
+beneficios_sociais_multirresposta,PROF_EB,Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção),True,Perfil
+dispositivos_multirresposta,EB,Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),True,Perfil
+dispositivos_multirresposta,GRAD,Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),True,Perfil
+dispositivos_multirresposta,POS,Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),True,Perfil
+dispositivos_multirresposta,PROF_EB,Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),True,Perfil
+internet_domestica_multirresposta,EB,Você possui acesso à internet em casa? (pode marcar mais de uma opção),True,Perfil
+internet_domestica_multirresposta,GRAD,Você possui acesso à internet em casa? (pode marcar mais de uma opção),True,Perfil
+internet_domestica_multirresposta,POS,Você possui acesso à internet em casa? (pode marcar mais de uma opção),True,Perfil
+internet_domestica_multirresposta,PROF_EB,Você possui acesso à internet em casa? (pode marcar mais de uma opção),True,Perfil
+espaco_estudo,EB,Você possui um espaço dedicado para estudo em casa?,True,Perfil
+espaco_estudo,GRAD,Você possui um espaço dedicado para estudo em casa?,True,Perfil
+espaco_estudo,POS,Você possui um espaço dedicado para estudo em casa?,True,Perfil
+espaco_estudo,PROF_EB,,False,Perfil
+distancia_deslocamento,EB,A escola fica a que distância da sua casa?,True,Perfil
+distancia_deslocamento,GRAD,A universidade fica a que distância da sua casa?,True,Perfil
+distancia_deslocamento,POS,A universidade fica a que distância da sua casa?,True,Perfil
+distancia_deslocamento,PROF_EB,,False,Perfil
+responsabilidades_familiares_original,EB,Você é mãe?,True,Perfil
+responsabilidades_familiares_original,GRAD,Você tem filhos?,True,Perfil
+responsabilidades_familiares_original,POS,Você tem filhos?,True,Perfil
+responsabilidades_familiares_original,PROF_EB,Você tem filhos?,True,Perfil
+instituicao_vinculo,EB,Em que escola você estuda?,True,Perfil
+instituicao_vinculo,GRAD,Em que instituição você estuda?,True,Perfil
+instituicao_vinculo,POS,Em que instituição você faz Pós-Graduação?,True,Perfil
+instituicao_vinculo,PROF_EB,Em que escola você leciona?,True,Perfil
+ano_escolar_eb,EB,Qual seu ano escolar atual?,True,Perfil
+ano_escolar_eb,GRAD,,False,Perfil
+ano_escolar_eb,POS,,False,Perfil
+ano_escolar_eb,PROF_EB,,False,Perfil
+turno_estudo_eb,EB,Em qual turno você estuda?,True,Perfil
+turno_estudo_eb,GRAD,,False,Perfil
+turno_estudo_eb,POS,,False,Perfil
+turno_estudo_eb,PROF_EB,,False,Perfil
+semestre_graduacao_pos,EB,,False,Perfil
+semestre_graduacao_pos,GRAD,Qual seu semestre atual?,True,Perfil
+semestre_graduacao_pos,POS,Qual seu semestre atual?,True,Perfil
+semestre_graduacao_pos,PROF_EB,,False,Perfil
+primeira_geracao_ensino_superior,EB,,False,Perfil
+primeira_geracao_ensino_superior,GRAD,Você é a primeira pessoa da sua família a cursar ou concluir o ensino superior?,True,Perfil
+primeira_geracao_ensino_superior,POS,,False,Perfil
+primeira_geracao_ensino_superior,PROF_EB,,False,Perfil
+primeira_geracao_pos_graduacao,EB,,False,Perfil
+primeira_geracao_pos_graduacao,GRAD,,False,Perfil
+primeira_geracao_pos_graduacao,POS,Você é a primeira pessoa da sua família a cursar ou concluir a pós-graduação?,True,Perfil
+primeira_geracao_pos_graduacao,PROF_EB,,False,Perfil
+area_docencia,EB,,False,Perfil
+area_docencia,GRAD,,False,Perfil
+area_docencia,POS,,False,Perfil
+area_docencia,PROF_EB,Em qual área de conhecimento você leciona?,True,Perfil
+experiencia_docente,EB,,False,Perfil
+experiencia_docente,GRAD,,False,Perfil
+experiencia_docente,POS,,False,Perfil
+experiencia_docente,PROF_EB,Há quanto tempo você atua como professora?,True,Perfil
+laboratorio_escola,EB,,False,Perfil
+laboratorio_escola,GRAD,,False,Perfil
+laboratorio_escola,POS,,False,Perfil
+laboratorio_escola,PROF_EB,"Na sua escola, há laboratórios ou equipamentos disponíveis para atividades com Computação?",True,Perfil
+acesso_estudantes_tecnologia,EB,,False,Perfil
+acesso_estudantes_tecnologia,GRAD,,False,Perfil
+acesso_estudantes_tecnologia,POS,,False,Perfil
+acesso_estudantes_tecnologia,PROF_EB,Seus estudantes tem acesso à tecnologia na escola?,True,Perfil
+expectativas,aval_eb,O RENACEE_MD tem atendido suas expectativas?,True,Avaliação
+desistencia_projeto,aval_eb,"Em algum momento, você considerou desistir de participar do RENACEE_MD?",True,Avaliação
+continuar_projeto,aval_eb,Você pretende continuar participando do ReNacEE_MD no futuro?,True,Avaliação
+representatividade,aval_eb,Você se sente representada nas ações e materiais do RENACEE_MD.,True,Avaliação
+motivacao_futuro,aval_eb,Você se sente mais motivada em relação ao seu futuro acadêmico/profissional após participar do RENACEE_MD ?,True,Avaliação
+ampliacao_oportunidades,aval_eb,O RENACEE_MD contribuiu para ampliar suas oportunidades acadêmicas ou profissionais?,True,Avaliação
+expectativas,aval_superior,O RENACEE_MD tem atendido suas expectativas.,True,Avaliação
+desistencia_projeto,aval_superior,"Em algum momento, você considerou desistir de participar do RENACEE_MD?",True,Avaliação
+continuar_projeto,aval_superior,Você pretende continuar participando do ReNacEE_MD no futuro?,True,Avaliação
+representatividade,aval_superior,Você se sente representada nas ações e materiais do RENACEE_MD.,True,Avaliação
+motivacao_futuro,aval_superior,Você se sente mais motivada em relação ao seu futuro acadêmico/profissional após participar do RENACEE_MD.,True,Avaliação
+ampliacao_oportunidades,aval_superior,O RENACEE_MD contribuiu para ampliar suas oportunidades acadêmicas ou profissionais.,True,Avaliação
+expectativas,aval_prof,O RENACEE_MD tem atendido suas expectativas?,True,Avaliação
+desistencia_projeto,aval_prof,"Em algum momento, você considerou desistir de participar do RENACEE_MD?",True,Avaliação
+continuar_projeto,aval_prof,Você pretende continuar participando do ReNacEE_MD no futuro?,True,Avaliação
+representatividade,aval_prof,,False,Avaliação
+motivacao_futuro,aval_prof,,False,Avaliação
+ampliacao_oportunidades,aval_prof,,False,Avaliação

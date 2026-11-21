@@ -1,0 +1,85 @@
+﻿variavel_padronizada,classe_equivalencia,fonte,grupo,coluna_original,mapeamento_previsto,coluna_encontrada
+idade,comparavel,perfil_eb,EB,Qual sua idade?,True,True
+idade,comparavel,perfil_grad,GRAD,Qual sua idade?,True,True
+idade,comparavel,perfil_pos,POS,Qual sua idade?,True,True
+idade,comparavel,perfil_prof_eb,PROF_EB,Qual sua idade?,True,True
+raca_etnia,comparavel,perfil_eb,EB,Qual sua raça/etnia?,True,True
+raca_etnia,comparavel,perfil_grad,GRAD,Qual sua raça/etnia?,True,True
+raca_etnia,comparavel,perfil_pos,POS,Qual sua raça/etnia?,True,True
+raca_etnia,comparavel,perfil_prof_eb,PROF_EB,Qual sua raça/etnia?,True,True
+genero,comparavel,perfil_eb,EB,,False,False
+genero,comparavel,perfil_grad,GRAD,Com qual gênero você se identifica?,True,True
+genero,comparavel,perfil_pos,POS,Com qual gênero você se identifica?,True,True
+genero,comparavel,perfil_prof_eb,PROF_EB,Com qual gênero você se identifica?,True,True
+cidade_uf,comparavel,perfil_eb,EB,Em que Cidade/Estado você mora?,True,True
+cidade_uf,comparavel,perfil_grad,GRAD,Em que Cidade/Estado você mora?,True,True
+cidade_uf,comparavel,perfil_pos,POS,Em que Cidade/Estado você mora?,True,True
+cidade_uf,comparavel,perfil_prof_eb,PROF_EB,Em que Cidade/Estado você mora?,True,True
+renda_familiar_faixa_sm,comparavel,perfil_eb,EB,Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621),True,True
+renda_familiar_faixa_sm,comparavel,perfil_grad,GRAD,Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621),True,True
+renda_familiar_faixa_sm,comparavel,perfil_pos,POS,Qual o valor aproximado da renda da sua família? Considere família as pessoas que vivem da mesma renda mensal. (O salário mínimo em 2026 no Brasil é de R$ 1.621),True,True
+renda_familiar_faixa_sm,comparavel,perfil_prof_eb,PROF_EB,Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621),True,True
+beneficios_sociais_multirresposta,comparavel,perfil_eb,EB,Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção),True,True
+beneficios_sociais_multirresposta,comparavel,perfil_grad,GRAD,Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção),True,True
+beneficios_sociais_multirresposta,comparavel,perfil_pos,POS,Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção),True,True
+beneficios_sociais_multirresposta,comparavel,perfil_prof_eb,PROF_EB,Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção),True,True
+dispositivos_multirresposta,comparavel,perfil_eb,EB,Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),True,True
+dispositivos_multirresposta,comparavel,perfil_grad,GRAD,Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),True,True
+dispositivos_multirresposta,comparavel,perfil_pos,POS,Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),True,True
+dispositivos_multirresposta,comparavel,perfil_prof_eb,PROF_EB,Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),True,True
+internet_domestica_multirresposta,comparavel,perfil_eb,EB,Você possui acesso à internet em casa? (pode marcar mais de uma opção),True,True
+internet_domestica_multirresposta,comparavel,perfil_grad,GRAD,Você possui acesso à internet em casa? (pode marcar mais de uma opção),True,True
+internet_domestica_multirresposta,comparavel,perfil_pos,POS,Você possui acesso à internet em casa? (pode marcar mais de uma opção),True,True
+internet_domestica_multirresposta,comparavel,perfil_prof_eb,PROF_EB,Você possui acesso à internet em casa? (pode marcar mais de uma opção),True,True
+espaco_estudo,comparavel,perfil_eb,EB,Você possui um espaço dedicado para estudo em casa?,True,True
+espaco_estudo,comparavel,perfil_grad,GRAD,Você possui um espaço dedicado para estudo em casa?,True,True
+espaco_estudo,comparavel,perfil_pos,POS,Você possui um espaço dedicado para estudo em casa?,True,True
+espaco_estudo,comparavel,perfil_prof_eb,PROF_EB,,False,False
+distancia_deslocamento,comparavel_contextual,perfil_eb,EB,A escola fica a que distância da sua casa?,True,True
+distancia_deslocamento,comparavel_contextual,perfil_grad,GRAD,A universidade fica a que distância da sua casa?,True,True
+distancia_deslocamento,comparavel_contextual,perfil_pos,POS,A universidade fica a que distância da sua casa?,True,True
+distancia_deslocamento,comparavel_contextual,perfil_prof_eb,PROF_EB,,False,False
+responsabilidades_familiares_original,comparavel_parcial,perfil_eb,EB,Você é mãe?,True,True
+responsabilidades_familiares_original,comparavel_parcial,perfil_grad,GRAD,Você tem filhos?,True,True
+responsabilidades_familiares_original,comparavel_parcial,perfil_pos,POS,Você tem filhos?,True,True
+responsabilidades_familiares_original,comparavel_parcial,perfil_prof_eb,PROF_EB,Você tem filhos?,True,True
+instituicao_vinculo,comparavel_contextual,perfil_eb,EB,Em que escola você estuda?,True,True
+instituicao_vinculo,comparavel_contextual,perfil_grad,GRAD,Em que instituição você estuda?,True,True
+instituicao_vinculo,comparavel_contextual,perfil_pos,POS,Em que instituição você faz Pós-Graduação?,True,True
+instituicao_vinculo,comparavel_contextual,perfil_prof_eb,PROF_EB,Em que escola você leciona?,True,True
+ano_escolar_eb,especifica,perfil_eb,EB,Qual seu ano escolar atual?,True,True
+ano_escolar_eb,especifica,perfil_grad,GRAD,,False,False
+ano_escolar_eb,especifica,perfil_pos,POS,,False,False
+ano_escolar_eb,especifica,perfil_prof_eb,PROF_EB,,False,False
+turno_estudo_eb,especifica,perfil_eb,EB,Em qual turno você estuda?,True,True
+turno_estudo_eb,especifica,perfil_grad,GRAD,,False,False
+turno_estudo_eb,especifica,perfil_pos,POS,,False,False
+turno_estudo_eb,especifica,perfil_prof_eb,PROF_EB,,False,False
+semestre_graduacao_pos,comparavel_contextual,perfil_eb,EB,,False,False
+semestre_graduacao_pos,comparavel_contextual,perfil_grad,GRAD,Qual seu semestre atual?,True,True
+semestre_graduacao_pos,comparavel_contextual,perfil_pos,POS,Qual seu semestre atual?,True,True
+semestre_graduacao_pos,comparavel_contextual,perfil_prof_eb,PROF_EB,,False,False
+primeira_geracao_ensino_superior,especifica,perfil_eb,EB,,False,False
+primeira_geracao_ensino_superior,especifica,perfil_grad,GRAD,Você é a primeira pessoa da sua família a cursar ou concluir o ensino superior?,True,True
+primeira_geracao_ensino_superior,especifica,perfil_pos,POS,,False,False
+primeira_geracao_ensino_superior,especifica,perfil_prof_eb,PROF_EB,,False,False
+primeira_geracao_pos_graduacao,especifica,perfil_eb,EB,,False,False
+primeira_geracao_pos_graduacao,especifica,perfil_grad,GRAD,,False,False
+primeira_geracao_pos_graduacao,especifica,perfil_pos,POS,Você é a primeira pessoa da sua família a cursar ou concluir a pós-graduação?,True,True
+primeira_geracao_pos_graduacao,especifica,perfil_prof_eb,PROF_EB,,False,False
+area_docencia,especifica,perfil_eb,EB,,False,False
+area_docencia,especifica,perfil_grad,GRAD,,False,False
+area_docencia,especifica,perfil_pos,POS,,False,False
+area_docencia,especifica,perfil_prof_eb,PROF_EB,Em qual área de conhecimento você leciona?,True,True
+experiencia_docente,especifica,perfil_eb,EB,,False,False
+experiencia_docente,especifica,perfil_grad,GRAD,,False,False
+experiencia_docente,especifica,perfil_pos,POS,,False,False
+experiencia_docente,especifica,perfil_prof_eb,PROF_EB,Há quanto tempo você atua como professora?,True,True
+laboratorio_escola,especifica,perfil_eb,EB,,False,False
+laboratorio_escola,especifica,perfil_grad,GRAD,,False,False
+laboratorio_escola,especifica,perfil_pos,POS,,False,False
+laboratorio_escola,especifica,perfil_prof_eb,PROF_EB,"Na sua escola, há laboratórios ou equipamentos disponíveis para atividades com Computação?",True,True
+acesso_estudantes_tecnologia,especifica,perfil_eb,EB,,False,False
+acesso_estudantes_tecnologia,especifica,perfil_grad,GRAD,,False,False
+acesso_estudantes_tecnologia,especifica,perfil_pos,POS,,False,False
+acesso_estudantes_tecnologia,especifica,perfil_prof_eb,PROF_EB,Seus estudantes tem acesso à tecnologia na escola?,True,True

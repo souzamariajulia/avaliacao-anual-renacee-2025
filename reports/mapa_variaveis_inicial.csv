@@ -1,0 +1,94 @@
+﻿base,variavel,pergunta_origem,registros,preenchidos,ausentes,valores_distintos
+avaliacao_geral,ID,,92,92,0,92
+avaliacao_geral,grupo,,92,92,0,5
+avaliacao_geral,expectativas,aval_eb: O RENACEE_MD tem atendido suas expectativas? | aval_prof: O RENACEE_MD tem atendido suas expectativas? | aval_superior: O RENACEE_MD tem atendido suas expectativas.,92,92,0,4
+avaliacao_geral,desistencia_projeto,"aval_eb: Em algum momento, você considerou desistir de participar do RENACEE_MD? | aval_prof: Em algum momento, você considerou desistir de participar do RENACEE_MD? | aval_superior: Em algum momento, você considerou desistir de participar do RENACEE_MD?",92,92,0,4
+avaliacao_geral,continuar_projeto,aval_eb: Você pretende continuar participando do ReNacEE_MD no futuro? | aval_prof: Você pretende continuar participando do ReNacEE_MD no futuro? | aval_superior: Você pretende continuar participando do ReNacEE_MD no futuro?,92,92,0,4
+avaliacao_geral,representatividade,aval_eb: Você se sente representada nas ações e materiais do RENACEE_MD. | aval_superior: Você se sente representada nas ações e materiais do RENACEE_MD.,92,69,23,3
+avaliacao_geral,motivacao_futuro,aval_eb: Você se sente mais motivada em relação ao seu futuro acadêmico/profissional após participar do RENACEE_MD ? | aval_superior: Você se sente mais motivada em relação ao seu futuro acadêmico/profissional após participar do RENACEE_MD.,92,69,23,4
+avaliacao_geral,ampliacao_oportunidades,aval_eb: O RENACEE_MD contribuiu para ampliar suas oportunidades acadêmicas ou profissionais? | aval_superior: O RENACEE_MD contribuiu para ampliar suas oportunidades acadêmicas ou profissionais.,92,69,23,4
+avaliacao_geral,interesse_computacao_pos,,92,49,43,3
+avaliacao_geral,conhecimento_computacao_pos,,92,49,43,3
+avaliacao_geral,frequencia_computacao_pos,,92,49,43,4
+avaliacao_geral,perspectivas_percebidas_multirresposta,,92,69,23,37
+avaliacao_geral,etapas_interseccionalidade_docencia,,92,23,69,4
+avaliacao_geral,idade,EB: Qual sua idade? | GRAD: Qual sua idade? | POS: Qual sua idade? | PROF_EB: Qual sua idade?,92,79,13,26
+avaliacao_geral,raca_etnia,EB: Qual sua raça/etnia? | GRAD: Qual sua raça/etnia? | POS: Qual sua raça/etnia? | PROF_EB: Qual sua raça/etnia?,92,80,12,4
+avaliacao_geral,genero,GRAD: Com qual gênero você se identifica? | POS: Com qual gênero você se identifica? | PROF_EB: Com qual gênero você se identifica?,92,1,91,1
+avaliacao_geral,cidade_uf,EB: Em que Cidade/Estado você mora? | GRAD: Em que Cidade/Estado você mora? | POS: Em que Cidade/Estado você mora? | PROF_EB: Em que Cidade/Estado você mora?,92,80,12,14
+avaliacao_geral,renda_familiar_faixa_sm,EB: Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621) | GRAD: Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621) | POS: Qual o valor aproximado da renda da sua família? Considere família as pessoas que vivem da mesma renda mensal. (O salário mínimo em 2026 no Brasil é de R$ 1.621) | PROF_EB: Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621),92,80,12,4
+avaliacao_geral,beneficios_sociais_multirresposta,EB: Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção) | GRAD: Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção) | POS: Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção) | PROF_EB: Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção),92,80,12,8
+avaliacao_geral,dispositivos_multirresposta,EB: Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção) | GRAD: Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção) | POS: Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção) | PROF_EB: Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),92,80,12,6
+avaliacao_geral,internet_domestica_multirresposta,EB: Você possui acesso à internet em casa? (pode marcar mais de uma opção) | GRAD: Você possui acesso à internet em casa? (pode marcar mais de uma opção) | POS: Você possui acesso à internet em casa? (pode marcar mais de uma opção) | PROF_EB: Você possui acesso à internet em casa? (pode marcar mais de uma opção),92,80,12,6
+avaliacao_geral,espaco_estudo,EB: Você possui um espaço dedicado para estudo em casa? | GRAD: Você possui um espaço dedicado para estudo em casa? | POS: Você possui um espaço dedicado para estudo em casa?,92,66,26,3
+avaliacao_geral,distancia_deslocamento,EB: A escola fica a que distância da sua casa? | GRAD: A universidade fica a que distância da sua casa? | POS: A universidade fica a que distância da sua casa?,92,1,91,1
+avaliacao_geral,responsabilidades_familiares_original,EB: Você é mãe? | GRAD: Você tem filhos? | POS: Você tem filhos? | PROF_EB: Você tem filhos?,92,80,12,5
+avaliacao_geral,instituicao_vinculo,EB: Em que escola você estuda? | GRAD: Em que instituição você estuda? | POS: Em que instituição você faz Pós-Graduação? | PROF_EB: Em que escola você leciona?,92,80,12,20
+avaliacao_geral,ano_escolar_eb,EB: Qual seu ano escolar atual?,92,46,46,6
+avaliacao_geral,turno_estudo_eb,EB: Em qual turno você estuda?,92,46,46,4
+avaliacao_geral,semestre_graduacao_pos,GRAD: Qual seu semestre atual? | POS: Qual seu semestre atual?,92,20,72,8
+avaliacao_geral,primeira_geracao_ensino_superior,GRAD: Você é a primeira pessoa da sua família a cursar ou concluir o ensino superior?,92,0,92,0
+avaliacao_geral,primeira_geracao_pos_graduacao,POS: Você é a primeira pessoa da sua família a cursar ou concluir a pós-graduação?,92,0,92,0
+avaliacao_geral,area_docencia,PROF_EB: Em qual área de conhecimento você leciona?,92,14,78,5
+avaliacao_geral,experiencia_docente,PROF_EB: Há quanto tempo você atua como professora?,92,14,78,3
+avaliacao_geral,laboratorio_escola,"PROF_EB: Na sua escola, há laboratórios ou equipamentos disponíveis para atividades com Computação?",92,14,78,4
+avaliacao_geral,acesso_estudantes_tecnologia,PROF_EB: Seus estudantes tem acesso à tecnologia na escola?,92,14,78,3
+avaliacao_geral,perfil_disponivel,,92,92,0,2
+perfis_harmonizados,ID,,130,130,0,130
+perfis_harmonizados,grupo,,130,130,0,4
+perfis_harmonizados,idade,EB: Qual sua idade? | GRAD: Qual sua idade? | POS: Qual sua idade? | PROF_EB: Qual sua idade?,130,128,2,28
+perfis_harmonizados,raca_etnia,EB: Qual sua raça/etnia? | GRAD: Qual sua raça/etnia? | POS: Qual sua raça/etnia? | PROF_EB: Qual sua raça/etnia?,130,130,0,4
+perfis_harmonizados,genero,GRAD: Com qual gênero você se identifica? | POS: Com qual gênero você se identifica? | PROF_EB: Com qual gênero você se identifica?,130,14,116,2
+perfis_harmonizados,cidade_uf,EB: Em que Cidade/Estado você mora? | GRAD: Em que Cidade/Estado você mora? | POS: Em que Cidade/Estado você mora? | PROF_EB: Em que Cidade/Estado você mora?,130,130,0,19
+perfis_harmonizados,renda_familiar_faixa_sm,EB: Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621) | GRAD: Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621) | POS: Qual o valor aproximado da renda da sua família? Considere família as pessoas que vivem da mesma renda mensal. (O salário mínimo em 2026 no Brasil é de R$ 1.621) | PROF_EB: Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621),130,130,0,4
+perfis_harmonizados,beneficios_sociais_multirresposta,EB: Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção) | GRAD: Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção) | POS: Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção) | PROF_EB: Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção),130,130,0,10
+perfis_harmonizados,dispositivos_multirresposta,EB: Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção) | GRAD: Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção) | POS: Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção) | PROF_EB: Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),130,130,0,6
+perfis_harmonizados,internet_domestica_multirresposta,EB: Você possui acesso à internet em casa? (pode marcar mais de uma opção) | GRAD: Você possui acesso à internet em casa? (pode marcar mais de uma opção) | POS: Você possui acesso à internet em casa? (pode marcar mais de uma opção) | PROF_EB: Você possui acesso à internet em casa? (pode marcar mais de uma opção),130,130,0,8
+perfis_harmonizados,espaco_estudo,EB: Você possui um espaço dedicado para estudo em casa? | GRAD: Você possui um espaço dedicado para estudo em casa? | POS: Você possui um espaço dedicado para estudo em casa?,130,116,14,4
+perfis_harmonizados,distancia_deslocamento,EB: A escola fica a que distância da sua casa? | GRAD: A universidade fica a que distância da sua casa? | POS: A universidade fica a que distância da sua casa?,130,32,98,5
+perfis_harmonizados,responsabilidades_familiares_original,EB: Você é mãe? | GRAD: Você tem filhos? | POS: Você tem filhos? | PROF_EB: Você tem filhos?,130,130,0,5
+perfis_harmonizados,instituicao_vinculo,EB: Em que escola você estuda? | GRAD: Em que instituição você estuda? | POS: Em que instituição você faz Pós-Graduação? | PROF_EB: Em que escola você leciona?,130,130,0,26
+perfis_harmonizados,ano_escolar_eb,EB: Qual seu ano escolar atual?,130,74,56,10
+perfis_harmonizados,turno_estudo_eb,EB: Em qual turno você estuda?,130,74,56,4
+perfis_harmonizados,semestre_graduacao_pos,GRAD: Qual seu semestre atual? | POS: Qual seu semestre atual?,130,42,88,9
+perfis_harmonizados,primeira_geracao_ensino_superior,GRAD: Você é a primeira pessoa da sua família a cursar ou concluir o ensino superior?,130,13,117,2
+perfis_harmonizados,primeira_geracao_pos_graduacao,POS: Você é a primeira pessoa da sua família a cursar ou concluir a pós-graduação?,130,0,130,0
+perfis_harmonizados,area_docencia,PROF_EB: Em qual área de conhecimento você leciona?,130,14,116,5
+perfis_harmonizados,experiencia_docente,PROF_EB: Há quanto tempo você atua como professora?,130,14,116,3
+perfis_harmonizados,laboratorio_escola,"PROF_EB: Na sua escola, há laboratórios ou equipamentos disponíveis para atividades com Computação?",130,14,116,4
+perfis_harmonizados,acesso_estudantes_tecnologia,PROF_EB: Seus estudantes tem acesso à tecnologia na escola?,130,14,116,3
+avaliacao_com_perfil,ID,,80,80,0,80
+avaliacao_com_perfil,grupo,,80,80,0,4
+avaliacao_com_perfil,expectativas,aval_eb: O RENACEE_MD tem atendido suas expectativas? | aval_prof: O RENACEE_MD tem atendido suas expectativas? | aval_superior: O RENACEE_MD tem atendido suas expectativas.,80,80,0,4
+avaliacao_com_perfil,desistencia_projeto,"aval_eb: Em algum momento, você considerou desistir de participar do RENACEE_MD? | aval_prof: Em algum momento, você considerou desistir de participar do RENACEE_MD? | aval_superior: Em algum momento, você considerou desistir de participar do RENACEE_MD?",80,80,0,4
+avaliacao_com_perfil,continuar_projeto,aval_eb: Você pretende continuar participando do ReNacEE_MD no futuro? | aval_prof: Você pretende continuar participando do ReNacEE_MD no futuro? | aval_superior: Você pretende continuar participando do ReNacEE_MD no futuro?,80,80,0,4
+avaliacao_com_perfil,representatividade,aval_eb: Você se sente representada nas ações e materiais do RENACEE_MD. | aval_superior: Você se sente representada nas ações e materiais do RENACEE_MD.,80,66,14,3
+avaliacao_com_perfil,motivacao_futuro,aval_eb: Você se sente mais motivada em relação ao seu futuro acadêmico/profissional após participar do RENACEE_MD ? | aval_superior: Você se sente mais motivada em relação ao seu futuro acadêmico/profissional após participar do RENACEE_MD.,80,66,14,4
+avaliacao_com_perfil,ampliacao_oportunidades,aval_eb: O RENACEE_MD contribuiu para ampliar suas oportunidades acadêmicas ou profissionais? | aval_superior: O RENACEE_MD contribuiu para ampliar suas oportunidades acadêmicas ou profissionais.,80,66,14,4
+avaliacao_com_perfil,interesse_computacao_pos,,80,46,34,3
+avaliacao_com_perfil,conhecimento_computacao_pos,,80,46,34,3
+avaliacao_com_perfil,frequencia_computacao_pos,,80,46,34,4
+avaliacao_com_perfil,perspectivas_percebidas_multirresposta,,80,66,14,37
+avaliacao_com_perfil,etapas_interseccionalidade_docencia,,80,14,66,4
+avaliacao_com_perfil,idade,EB: Qual sua idade? | GRAD: Qual sua idade? | POS: Qual sua idade? | PROF_EB: Qual sua idade?,80,79,1,26
+avaliacao_com_perfil,raca_etnia,EB: Qual sua raça/etnia? | GRAD: Qual sua raça/etnia? | POS: Qual sua raça/etnia? | PROF_EB: Qual sua raça/etnia?,80,80,0,4
+avaliacao_com_perfil,genero,GRAD: Com qual gênero você se identifica? | POS: Com qual gênero você se identifica? | PROF_EB: Com qual gênero você se identifica?,80,1,79,1
+avaliacao_com_perfil,cidade_uf,EB: Em que Cidade/Estado você mora? | GRAD: Em que Cidade/Estado você mora? | POS: Em que Cidade/Estado você mora? | PROF_EB: Em que Cidade/Estado você mora?,80,80,0,14
+avaliacao_com_perfil,renda_familiar_faixa_sm,EB: Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621) | GRAD: Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621) | POS: Qual o valor aproximado da renda da sua família? Considere família as pessoas que vivem da mesma renda mensal. (O salário mínimo em 2026 no Brasil é de R$ 1.621) | PROF_EB: Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621),80,80,0,4
+avaliacao_com_perfil,beneficios_sociais_multirresposta,EB: Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção) | GRAD: Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção) | POS: Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção) | PROF_EB: Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção),80,80,0,8
+avaliacao_com_perfil,dispositivos_multirresposta,EB: Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção) | GRAD: Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção) | POS: Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção) | PROF_EB: Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),80,80,0,6
+avaliacao_com_perfil,internet_domestica_multirresposta,EB: Você possui acesso à internet em casa? (pode marcar mais de uma opção) | GRAD: Você possui acesso à internet em casa? (pode marcar mais de uma opção) | POS: Você possui acesso à internet em casa? (pode marcar mais de uma opção) | PROF_EB: Você possui acesso à internet em casa? (pode marcar mais de uma opção),80,80,0,6
+avaliacao_com_perfil,espaco_estudo,EB: Você possui um espaço dedicado para estudo em casa? | GRAD: Você possui um espaço dedicado para estudo em casa? | POS: Você possui um espaço dedicado para estudo em casa?,80,66,14,3
+avaliacao_com_perfil,distancia_deslocamento,EB: A escola fica a que distância da sua casa? | GRAD: A universidade fica a que distância da sua casa? | POS: A universidade fica a que distância da sua casa?,80,1,79,1
+avaliacao_com_perfil,responsabilidades_familiares_original,EB: Você é mãe? | GRAD: Você tem filhos? | POS: Você tem filhos? | PROF_EB: Você tem filhos?,80,80,0,5
+avaliacao_com_perfil,instituicao_vinculo,EB: Em que escola você estuda? | GRAD: Em que instituição você estuda? | POS: Em que instituição você faz Pós-Graduação? | PROF_EB: Em que escola você leciona?,80,80,0,20
+avaliacao_com_perfil,ano_escolar_eb,EB: Qual seu ano escolar atual?,80,46,34,6
+avaliacao_com_perfil,turno_estudo_eb,EB: Em qual turno você estuda?,80,46,34,4
+avaliacao_com_perfil,semestre_graduacao_pos,GRAD: Qual seu semestre atual? | POS: Qual seu semestre atual?,80,20,60,8
+avaliacao_com_perfil,primeira_geracao_ensino_superior,GRAD: Você é a primeira pessoa da sua família a cursar ou concluir o ensino superior?,80,0,80,0
+avaliacao_com_perfil,primeira_geracao_pos_graduacao,POS: Você é a primeira pessoa da sua família a cursar ou concluir a pós-graduação?,80,0,80,0
+avaliacao_com_perfil,area_docencia,PROF_EB: Em qual área de conhecimento você leciona?,80,14,66,5
+avaliacao_com_perfil,experiencia_docente,PROF_EB: Há quanto tempo você atua como professora?,80,14,66,3
+avaliacao_com_perfil,laboratorio_escola,"PROF_EB: Na sua escola, há laboratórios ou equipamentos disponíveis para atividades com Computação?",80,14,66,4
+avaliacao_com_perfil,acesso_estudantes_tecnologia,PROF_EB: Seus estudantes tem acesso à tecnologia na escola?,80,14,66,3
+avaliacao_com_perfil,perfil_disponivel,,80,80,0,1

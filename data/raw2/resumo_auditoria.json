@@ -1,0 +1,15 @@
+{
+  "fontes": 7,
+  "respostas_avaliacao_lidas": 92,
+  "respostas_perfil_lidas": 131,
+  "ids_quarentena_duplicados_entre_fontes": 0,
+  "ids_conflito_perfil": 0,
+  "linhas_base_integrada": 142,
+  "linhas_pareadas": 80,
+  "limites": [
+    "Consentimentos em branco incluídos conforme esclarecimento da coordenação; recusas explícitas excluídas",
+    "IES sem formulário de caracterização",
+    "Colunas sem equivalência não são agregadas",
+    "Respostas abertas exigem revisão de privacidade antes de compartilhamento"
+  ]
+}

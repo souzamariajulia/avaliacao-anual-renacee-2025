@@ -1,0 +1,297 @@
+﻿fonte,coluna_original,coluna_padronizada_cabecalho,tipo_observado,preenchidos,vazios
+aval_eb,Carimbo de data/hora,Carimbo de data/hora,object,49,0
+aval_eb,ID,ID,object,49,0
+aval_eb,Você leu e concorda que suas respostas sejam utilizadas na pesquisa conforme descrito acima?,Você leu e concorda que suas respostas sejam utilizadas na pesquisa conforme descrito acima?,object,49,0
+aval_eb,"Após o 1o ano do projeto, como você avalia o seu interesse pela área de Computação?","Após o 1o ano do projeto, como você avalia o seu interesse pela área de Computação?",object,49,0
+aval_eb,"Após o 1o ano do projeto, como você avalia seu nível de conhecimento sobre Computação?","Após o 1o ano do projeto, como você avalia seu nível de conhecimento sobre Computação?",object,49,0
+aval_eb,"Após o 1o ano do projeto, com que frequência você tem contato com atividades relacionadas à Computação?","Após o 1o ano do projeto, com que frequência você tem contato com atividades relacionadas à Computação?",object,49,0
+aval_eb,Você já decidiu qual carreira seguir?,Você já decidiu qual carreira seguir?,object,49,0
+aval_eb,Qual área de conhecimento mais te interessa?,Qual área de conhecimento mais te interessa?,object,49,0
+aval_eb,"Caso deseje, deixe aqui suas dúvidas ou comentários.","Caso deseje, deixe aqui suas dúvidas ou comentários.",object,1,48
+aval_eb,Quais das seguintes linguagens de programação você já ouviu falar ou utilizou? (pode marcar mais de uma opção),Quais das seguintes linguagens de programação você já ouviu falar ou utilizou? (pode marcar mais de uma opção),object,49,0
+aval_eb,Quais destas plataformas você já utilizou para aprender programação? (pode marcar mais de uma opção),Quais destas plataformas você já utilizou para aprender programação? (pode marcar mais de uma opção),object,49,0
+aval_eb,Quais aplicativos ou ferramentas você já usou para aprender ou trabalhar com tecnologia? (pode marcar mais de uma opção),Quais aplicativos ou ferramentas você já usou para aprender ou trabalhar com tecnologia? (pode marcar mais de uma opção),object,49,0
+aval_eb,Você já utilizou algum sistema operacional? (pode marcar mais de uma opção),Você já utilizou algum sistema operacional? (pode marcar mais de uma opção),object,49,0
+aval_eb,Você se sente representada nas ações e materiais do RENACEE_MD.,Você se sente representada nas ações e materiais do RENACEE_MD.,object,49,0
+aval_eb,Quais dimensões do seu perfil você percebe que foram consideradas nas atividades realizadas?,Quais dimensões do seu perfil você percebe que foram consideradas nas atividades realizadas?,object,49,0
+aval_eb,O que o RENACEE_MD poderia fazer para que você se sentisse ainda mais representada nas ações e nos materiais?,O que o RENACEE_MD poderia fazer para que você se sentisse ainda mais representada nas ações e nos materiais?,object,49,0
+aval_eb,O RENACEE_MD tem atendido suas expectativas?,O RENACEE_MD tem atendido suas expectativas?,object,49,0
+aval_eb,Você se sente mais motivada em relação ao seu futuro acadêmico/profissional após participar do RENACEE_MD ?,Você se sente mais motivada em relação ao seu futuro acadêmico/profissional após participar do RENACEE_MD ?,object,49,0
+aval_eb,O RENACEE_MD contribuiu para ampliar suas oportunidades acadêmicas ou profissionais?,O RENACEE_MD contribuiu para ampliar suas oportunidades acadêmicas ou profissionais?,object,49,0
+aval_eb,"Em algum momento, você considerou desistir de participar do RENACEE_MD?","Em algum momento, você considerou desistir de participar do RENACEE_MD?",object,49,0
+aval_eb,"Se você respondeu ""sim"", comente brevemente sobre seus motivos para considerar a desistência.","Se você respondeu ""sim"", comente brevemente sobre seus motivos para considerar a desistência.",object,8,41
+aval_eb,Quais ações do RENACEE_MD você considera mais importantes na sua trajetória até agora?,Quais ações do RENACEE_MD você considera mais importantes na sua trajetória até agora?,object,49,0
+aval_eb,O que poderia ser melhorado no RENACEE_MD?,O que poderia ser melhorado no RENACEE_MD?,object,49,0
+aval_eb,Você pretende continuar participando do ReNacEE_MD no futuro?,Você pretende continuar participando do ReNacEE_MD no futuro?,object,49,0
+aval_eb,Em que escola você estuda?,Em que escola você estuda?,object,49,0
+aval_eb,Há quanto tempo você participa do RENACEE_MD?,Há quanto tempo você participa do RENACEE_MD?,object,49,0
+aval_eb,"Caso deseje, deixe aqui suas dúvidas ou comentários. 2","Caso deseje, deixe aqui suas dúvidas ou comentários. 2",object,5,44
+aval_superior,Carimbo de data/hora,Carimbo de data/hora,object,20,0
+aval_superior,ID,ID,object,20,0
+aval_superior,Você leu e concorda em participar da pesquisa conforme descrito acima?,Você leu e concorda em participar da pesquisa conforme descrito acima?,object,20,0
+aval_superior,Qual opção define sua participação no RENACEE_MD?,Qual opção define sua participação no RENACEE_MD?,object,20,0
+aval_superior,Você já decidiu qual caminho deseja seguir após a graduação?,Você já decidiu qual caminho deseja seguir após a graduação?,object,16,4
+aval_superior,Qual caminho mais te interessa?,Qual caminho mais te interessa?,object,16,4
+aval_superior,O quanto você se sente preparada para fazer as disciplinas da sua graduação?,O quanto você se sente preparada para fazer as disciplinas da sua graduação?,object,16,4
+aval_superior,"O quanto você se sente preparada para atuar como líder nas atividades da graduação, como por exemplo, trabalhos de grupo, apresentação de trabalhos, projetos de extensão e etc.","O quanto você se sente preparada para atuar como líder nas atividades da graduação, como por exemplo, trabalhos de grupo, apresentação de trabalhos, projetos de extensão e etc.",object,16,4
+aval_superior,O quanto você se sente preparada para atuar no mercado de trabalho na Computação?,O quanto você se sente preparada para atuar no mercado de trabalho na Computação?,object,16,4
+aval_superior,O quanto você se sente preparada para atuar na academia na área da Computação?,O quanto você se sente preparada para atuar na academia na área da Computação?,object,16,4
+aval_superior,O quanto você se considera consciente sobre os desafios das mulheres na Computação?,O quanto você se considera consciente sobre os desafios das mulheres na Computação?,object,16,4
+aval_superior,O quanto você se sente motivada a incentivar outras meninas e mulheres a ingressarem na Computação?,O quanto você se sente motivada a incentivar outras meninas e mulheres a ingressarem na Computação?,object,16,4
+aval_superior,Você já decidiu qual caminho deseja seguir após a pós-graduação?,Você já decidiu qual caminho deseja seguir após a pós-graduação?,object,4,16
+aval_superior,Qual caminho mais te interessa? 2,Qual caminho mais te interessa? 2,object,4,16
+aval_superior,O quanto você se sente preparada/o para fazer as disciplinas da pós-graduação?,O quanto você se sente preparada/o para fazer as disciplinas da pós-graduação?,object,4,16
+aval_superior,"O quanto você se sente preparada para atuar como líder nas atividades da pós-graduação, como por exemplo, trabalhos de grupo, apresentação de trabalhos, projetos de pesquisa e etc.","O quanto você se sente preparada para atuar como líder nas atividades da pós-graduação, como por exemplo, trabalhos de grupo, apresentação de trabalhos, projetos de pesquisa e etc.",object,4,16
+aval_superior,O quanto você se sente preparada para atuar no mercado de trabalho na Computação? 2,O quanto você se sente preparada para atuar no mercado de trabalho na Computação? 2,object,4,16
+aval_superior,O quanto você se sente preparada para atuar na academia na área da Computação? 2,O quanto você se sente preparada para atuar na academia na área da Computação? 2,object,4,16
+aval_superior,O quanto você se considera consciente sobre os desafios das mulheres na Computação? 2,O quanto você se considera consciente sobre os desafios das mulheres na Computação? 2,object,4,16
+aval_superior,O quanto você se sente motivada a incentivar outras meninas e mulheres a ingressarem na Computação? 2,O quanto você se sente motivada a incentivar outras meninas e mulheres a ingressarem na Computação? 2,object,4,16
+aval_superior,"Após o 1o ano do projeto, com que frequência você tem contato com atividades relacionadas à Computação para a Educação Básica?","Após o 1o ano do projeto, com que frequência você tem contato com atividades relacionadas à Computação para a Educação Básica?",object,20,0
+aval_superior,"Após o 1o ano do projeto, como você avalia seu nível de experiência com projetos sobre Computação para educação básica?","Após o 1o ano do projeto, como você avalia seu nível de experiência com projetos sobre Computação para educação básica?",object,20,0
+aval_superior,"Após o 1o ano do projeto, com que frequência você tem contato com atividades relacionadas à atração e retenção de meninas e mulheres na Computação?","Após o 1o ano do projeto, com que frequência você tem contato com atividades relacionadas à atração e retenção de meninas e mulheres na Computação?",object,20,0
+aval_superior,"Após o 1o ano do projeto, como você avalia seu nível de experiência com projetos para atração e retenção de meninas e mulheres na Computação?","Após o 1o ano do projeto, como você avalia seu nível de experiência com projetos para atração e retenção de meninas e mulheres na Computação?",object,20,0
+aval_superior,"Após o 1o ano do projeto, quais destas experiências práticas você teve?","Após o 1o ano do projeto, quais destas experiências práticas você teve?",object,20,0
+aval_superior,"Atualmente, você participa de algum projeto parceiro do Programa Meninas Digitais?","Atualmente, você participa de algum projeto parceiro do Programa Meninas Digitais?",object,20,0
+aval_superior,Caso tenha respondido SIM na pergunta anterior - Qual projeto parceiro você participa?,Caso tenha respondido SIM na pergunta anterior - Qual projeto parceiro você participa?,object,14,6
+aval_superior,Quais das seguintes linguagens de programação você já ouviu falar ou utilizou? (pode marcar mais de uma opção),Quais das seguintes linguagens de programação você já ouviu falar ou utilizou? (pode marcar mais de uma opção),object,20,0
+aval_superior,Quais destas plataformas você já utilizou para aprender programação? (pode marcar mais de uma opção),Quais destas plataformas você já utilizou para aprender programação? (pode marcar mais de uma opção),object,20,0
+aval_superior,Quais destas plataformas você já utilizou para ensinar programação? (pode marcar mais de uma opção),Quais destas plataformas você já utilizou para ensinar programação? (pode marcar mais de uma opção),object,20,0
+aval_superior,Quais aplicativos ou ferramentas você já usou para aprender tecnologia? (pode marcar mais de uma opção),Quais aplicativos ou ferramentas você já usou para aprender tecnologia? (pode marcar mais de uma opção),object,20,0
+aval_superior,Quais aplicativos ou ferramentas você já usou para ensinar tecnologia? (pode marcar mais de uma opção),Quais aplicativos ou ferramentas você já usou para ensinar tecnologia? (pode marcar mais de uma opção),object,20,0
+aval_superior,Quais das seguintes áreas você já teve contato acadêmico ou profissional? (pode marcar mais de uma opção),Quais das seguintes áreas você já teve contato acadêmico ou profissional? (pode marcar mais de uma opção),object,20,0
+aval_superior,"Antes de participar do projeto, você já tinha pensado em desistir do curso de Computação ou área relacionada?","Antes de participar do projeto, você já tinha pensado em desistir do curso de Computação ou área relacionada?",object,20,0
+aval_superior,"Se você respondeu “sim”, comente brevemente os motivos","Se você respondeu “sim”, comente brevemente os motivos",object,20,0
+aval_superior,Que tipo de apoio ou incentivo você recebeu do projeto?,Que tipo de apoio ou incentivo você recebeu do projeto?,object,20,0
+aval_superior,"Há barreiras que dificultam sua permanência na graduação? Se sim, quais?","Há barreiras que dificultam sua permanência na graduação? Se sim, quais?",object,20,0
+aval_superior,O RENACEE_MD tem um compromisso com a diversidade entre as mulheres participantes.,O RENACEE_MD tem um compromisso com a diversidade entre as mulheres participantes.,object,20,0
+aval_superior,Em qual momento você percebeu uma abordagem que considerou a diversidade entre as participantes?,Em qual momento você percebeu uma abordagem que considerou a diversidade entre as participantes?,object,20,0
+aval_superior,Você se sente representada nas ações e materiais do RENACEE_MD.,Você se sente representada nas ações e materiais do RENACEE_MD.,object,20,0
+aval_superior,Quais dimensões do seu perfil você percebe que foram consideradas nas atividades realizadas?,Quais dimensões do seu perfil você percebe que foram consideradas nas atividades realizadas?,object,20,0
+aval_superior,O que o RENACEE_MD poderia fazer para que você se sentisse ainda mais representada nas ações e nos materiais?,O que o RENACEE_MD poderia fazer para que você se sentisse ainda mais representada nas ações e nos materiais?,object,20,0
+aval_superior,Quais os seus objetivos de participação no RENACEE_MD neste 1o ano?,Quais os seus objetivos de participação no RENACEE_MD neste 1o ano?,object,20,0
+aval_superior,O RENACEE_MD tem atendido suas expectativas.,O RENACEE_MD tem atendido suas expectativas.,object,20,0
+aval_superior,Você se sente mais motivada em relação ao seu futuro acadêmico/profissional após participar do RENACEE_MD.,Você se sente mais motivada em relação ao seu futuro acadêmico/profissional após participar do RENACEE_MD.,object,20,0
+aval_superior,O RENACEE_MD contribuiu para ampliar suas oportunidades acadêmicas ou profissionais.,O RENACEE_MD contribuiu para ampliar suas oportunidades acadêmicas ou profissionais.,object,20,0
+aval_superior,"Em algum momento, você considerou desistir de participar do RENACEE_MD?","Em algum momento, você considerou desistir de participar do RENACEE_MD?",object,20,0
+aval_superior,"Se você respondeu ""sim"", comente brevemente sobre seus motivos para considerar a desistência.","Se você respondeu ""sim"", comente brevemente sobre seus motivos para considerar a desistência.",object,3,17
+aval_superior,Quais ações do RENACEE_MD você considera mais importantes na sua trajetória até agora?,Quais ações do RENACEE_MD você considera mais importantes na sua trajetória até agora?,object,20,0
+aval_superior,O que poderia ser melhorado no RENACEE_MD?,O que poderia ser melhorado no RENACEE_MD?,object,20,0
+aval_superior,Você pretende continuar participando do ReNacEE_MD no futuro?,Você pretende continuar participando do ReNacEE_MD no futuro?,object,20,0
+aval_superior,Em que instituição você estuda?,Em que instituição você estuda?,object,20,0
+aval_superior,Há quanto tempo você participa do RENACEE_MD?,Há quanto tempo você participa do RENACEE_MD?,object,20,0
+aval_superior,"Caso deseje, deixe aqui suas dúvidas ou comentários.","Caso deseje, deixe aqui suas dúvidas ou comentários.",object,1,19
+aval_prof,Carimbo de data/hora,Carimbo de data/hora,object,23,0
+aval_prof,ID,ID,object,23,0
+aval_prof,Você leu e concorda em participar da pesquisa conforme descrito acima?,Você leu e concorda em participar da pesquisa conforme descrito acima?,object,23,0
+aval_prof,Qual opção define sua participação no RENACEE_MD?,Qual opção define sua participação no RENACEE_MD?,object,23,0
+aval_prof,De qual projeto parceiro do RENACEE_MD você participa?,De qual projeto parceiro do RENACEE_MD você participa?,object,9,14
+aval_prof,Qual seu papel no projeto parceiro?,Qual seu papel no projeto parceiro?,object,9,14
+aval_prof,Comente brevemente sobre a situação do projeto parceiro no início do ReNacEE_MD.,Comente brevemente sobre a situação do projeto parceiro no início do ReNacEE_MD.,object,9,14
+aval_prof,"Em relação às atividades locais realizadas em 2025, em que etapas as questões interseccionais foram consideradas?","Em relação às atividades locais realizadas em 2025, em que etapas as questões interseccionais foram consideradas?",object,23,0
+aval_prof,"Se você marcou qualquer opção diferente de “Não foram consideradas em nenhuma etapa” na questão anterior, descreva brevemente como as questões interseccionais foram incorporadas.","Se você marcou qualquer opção diferente de “Não foram consideradas em nenhuma etapa” na questão anterior, descreva brevemente como as questões interseccionais foram incorporadas.",object,12,11
+aval_prof,"Pensando na elaboração das atividades locais realizadas, você considerou as questões interseccionais da sua região apontadas pelo RENACEE_MD nas reuniões mensais?","Pensando na elaboração das atividades locais realizadas, você considerou as questões interseccionais da sua região apontadas pelo RENACEE_MD nas reuniões mensais?",object,23,0
+aval_prof,"Se respondeu “Sim” ou “Parcialmente” na questão anterior, explique de que forma as indicações do RENACEE_MD foram utilizadas na elaboração das atividades.","Se respondeu “Sim” ou “Parcialmente” na questão anterior, explique de que forma as indicações do RENACEE_MD foram utilizadas na elaboração das atividades.",object,13,10
+aval_prof,Quais perspectivas interseccionais foram consideradas nas atividades locais realizadas em 2025?,Quais perspectivas interseccionais foram consideradas nas atividades locais realizadas em 2025?,object,23,0
+aval_prof,"Na sua experiência no RENACEE, quais fatores abaixo dificultaram a participação e engajamento das bolsistas ICj nas atividades do projeto?","Na sua experiência no RENACEE, quais fatores abaixo dificultaram a participação e engajamento das bolsistas ICj nas atividades do projeto?",object,23,0
+aval_prof,"Na sua percepção, quais aspectos subjetivos e relacionais influenciaram negativamente o engajamento das bolsistas ICj nas atividades do projeto?","Na sua percepção, quais aspectos subjetivos e relacionais influenciaram negativamente o engajamento das bolsistas ICj nas atividades do projeto?",object,23,0
+aval_prof,Quais estratégias organizacionais e institucionais foram adotadas para viabilizar a participação das bolsistas ICj no RENACEE?,Quais estratégias organizacionais e institucionais foram adotadas para viabilizar a participação das bolsistas ICj no RENACEE?,object,23,0
+aval_prof,"Quais estratégias formativas foram adotadas para o engajamento, motivação e senso de pertencimento das bolsistas ICj?","Quais estratégias formativas foram adotadas para o engajamento, motivação e senso de pertencimento das bolsistas ICj?",object,23,0
+aval_prof,O projeto realizou parcerias com outras instituições em 2025?,O projeto realizou parcerias com outras instituições em 2025?,object,23,0
+aval_prof,"Caso tenha respondido 'sim', descreva quais parcerias tiveram em 2025.","Caso tenha respondido 'sim', descreva quais parcerias tiveram em 2025.",object,13,10
+aval_prof,"Caso tenha respondido 'sim', a parceria foi formalizada com acordo de cooperação?","Caso tenha respondido 'sim', a parceria foi formalizada com acordo de cooperação?",object,14,9
+aval_prof,"Em relação às alunas de graduação, que tipos de ações e oportunidades específicas foram promovidas localmente em 2025?","Em relação às alunas de graduação, que tipos de ações e oportunidades específicas foram promovidas localmente em 2025?",object,23,0
+aval_prof,"Se você assinalou alguma opção diferente de “Nenhuma ação específica foi promovida para as alunas de graduação”, descreva brevemente os essas ações e, se possível, comente quais você considera que tiveram maior impacto para as alunas.","Se você assinalou alguma opção diferente de “Nenhuma ação específica foi promovida para as alunas de graduação”, descreva brevemente os essas ações e, se possível, comente quais você considera que tiveram maior impacto para as alunas.",object,23,0
+aval_prof,O RENACEE_MD tem atendido suas expectativas?,O RENACEE_MD tem atendido suas expectativas?,object,23,0
+aval_prof,"Em algum momento, você considerou desistir de participar do RENACEE_MD?","Em algum momento, você considerou desistir de participar do RENACEE_MD?",object,23,0
+aval_prof,"Se você respondeu ""sim"", comente brevemente sobre seus motivos para considerar a desistência.","Se você respondeu ""sim"", comente brevemente sobre seus motivos para considerar a desistência.",object,1,22
+aval_prof,O que poderia ser melhorado no RENACEE_MD?,O que poderia ser melhorado no RENACEE_MD?,object,23,0
+aval_prof,Você pretende continuar participando do ReNacEE_MD no futuro?,Você pretende continuar participando do ReNacEE_MD no futuro?,object,23,0
+aval_prof,Em qual instituição você atua?,Em qual instituição você atua?,object,23,0
+aval_prof,Há quanto tempo você participa do RENACEE_MD?,Há quanto tempo você participa do RENACEE_MD?,object,23,0
+aval_prof,"Caso deseje, deixe aqui suas dúvidas ou comentários.","Caso deseje, deixe aqui suas dúvidas ou comentários.",object,4,19
+perfil_eb,Carimbo de data/hora,Carimbo de data/hora,object,75,0
+perfil_eb,ID,ID,object,75,0
+perfil_eb,Confirme se é bolsista do projeto,Confirme se é bolsista do projeto,object,75,0
+perfil_eb,Você leu e concorda que suas respostas sejam utilizadas na pesquisa conforme descrito acima?,Você leu e concorda que suas respostas sejam utilizadas na pesquisa conforme descrito acima?,object,30,45
+perfil_eb,Você possui um espaço dedicado para estudo em casa?,Você possui um espaço dedicado para estudo em casa?,object,75,0
+perfil_eb,Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),object,75,0
+perfil_eb,Você possui acesso à internet em casa? (pode marcar mais de uma opção),Você possui acesso à internet em casa? (pode marcar mais de uma opção),object,75,0
+perfil_eb,"Antes de entrar no projeto, qual era o seu interesse pela área de Computação?","Antes de entrar no projeto, qual era o seu interesse pela área de Computação?",object,75,0
+perfil_eb,"Antes do projeto, com que frequência você tinha contato com atividades relacionadas à Computação?","Antes do projeto, com que frequência você tinha contato com atividades relacionadas à Computação?",object,75,0
+perfil_eb,Você já teve contato com alguma disciplina ou curso de Computação antes do projeto?,Você já teve contato com alguma disciplina ou curso de Computação antes do projeto?,object,75,0
+perfil_eb,Como você avalia seu nível de conhecimento sobre Computação antes do projeto?,Como você avalia seu nível de conhecimento sobre Computação antes do projeto?,object,75,0
+perfil_eb,Quais das seguintes linguagens de programação você já ouviu falar ou utilizou? (pode marcar mais de uma opção),Quais das seguintes linguagens de programação você já ouviu falar ou utilizou? (pode marcar mais de uma opção),object,75,0
+perfil_eb,Quais destas plataformas você já utilizou para aprender programação? (pode marcar mais de uma opção),Quais destas plataformas você já utilizou para aprender programação? (pode marcar mais de uma opção),object,75,0
+perfil_eb,Quais aplicativos ou ferramentas você já usou para aprender ou trabalhar com tecnologia? (pode marcar mais de uma opção),Quais aplicativos ou ferramentas você já usou para aprender ou trabalhar com tecnologia? (pode marcar mais de uma opção),object,75,0
+perfil_eb,Você já utilizou algum sistema operacional? (pode marcar mais de uma opção),Você já utilizou algum sistema operacional? (pode marcar mais de uma opção),object,75,0
+perfil_eb,Você já decidiu qual carreira seguir?,Você já decidiu qual carreira seguir?,object,75,0
+perfil_eb,Qual área de conhecimento mais te interessa?,Qual área de conhecimento mais te interessa?,object,75,0
+perfil_eb,O que mais despertou seu interesse pelo projeto?,O que mais despertou seu interesse pelo projeto?,object,75,0
+perfil_eb,O que você gostaria de aprender no projeto (selecione até quatro),O que você gostaria de aprender no projeto (selecione até quatro),object,75,0
+perfil_eb,O que mais você gostaria de aprender no projeto?,O que mais você gostaria de aprender no projeto?,object,75,0
+perfil_eb,Qual sua idade?,Qual sua idade?,object,75,0
+perfil_eb,Em que Cidade/Estado você mora?,Em que Cidade/Estado você mora?,object,75,0
+perfil_eb,Em que escola você estuda?,Em que escola você estuda?,object,75,0
+perfil_eb,Qual seu ano escolar atual?,Qual seu ano escolar atual?,object,75,0
+perfil_eb,Em qual turno você estuda?,Em qual turno você estuda?,object,75,0
+perfil_eb,Qual sua raça/etnia?,Qual sua raça/etnia?,object,75,0
+perfil_eb,Você é mãe?,Você é mãe?,object,75,0
+perfil_eb,Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621),Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621),object,75,0
+perfil_eb,Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção),Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção),object,75,0
+perfil_eb,"Caso deseje, deixe aqui suas dúvidas ou comentários.","Caso deseje, deixe aqui suas dúvidas ou comentários.",object,4,71
+perfil_eb,A escola fica a que distância da sua casa?,A escola fica a que distância da sua casa?,object,20,55
+perfil_grad,ID,ID,object,37,0
+perfil_grad,Confirme se é aluna IC do projeto,Confirme se é aluna IC do projeto,object,37,0
+perfil_grad,Você possui um espaço dedicado para estudo em casa?,Você possui um espaço dedicado para estudo em casa?,object,37,0
+perfil_grad,Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),object,37,0
+perfil_grad,Você possui acesso à internet em casa? (pode marcar mais de uma opção),Você possui acesso à internet em casa? (pode marcar mais de uma opção),object,37,0
+perfil_grad,"Antes do projeto, com que frequência você tinha contato com atividades relacionadas à Computação para a Educação Básica?","Antes do projeto, com que frequência você tinha contato com atividades relacionadas à Computação para a Educação Básica?",object,37,0
+perfil_grad,Você já teve contato com algum projeto de Computação para Educação Básica antes do RENACEE MD?,Você já teve contato com algum projeto de Computação para Educação Básica antes do RENACEE MD?,object,37,0
+perfil_grad,Como você avalia seu nível de experiência com projetos sobre Computação para educação básica antes do RENACEE MD?,Como você avalia seu nível de experiência com projetos sobre Computação para educação básica antes do RENACEE MD?,object,37,0
+perfil_grad,"Antes do projeto, com que frequência você tinha contato com atividades relacionadas à atração e retenção de meninas e mulheres na Computação?","Antes do projeto, com que frequência você tinha contato com atividades relacionadas à atração e retenção de meninas e mulheres na Computação?",object,37,0
+perfil_grad,Você já teve contato com algum projeto de atração e retenção de meninas e mulheres na Computação antes do RENACEE MD?,Você já teve contato com algum projeto de atração e retenção de meninas e mulheres na Computação antes do RENACEE MD?,object,37,0
+perfil_grad,Como você avalia seu nível de experiência com projetos para atração e retenção de meninas e mulheres na Computação antes do RENACEE MD?,Como você avalia seu nível de experiência com projetos para atração e retenção de meninas e mulheres na Computação antes do RENACEE MD?,object,37,0
+perfil_grad,"Antes do projeto, quais destas experiências práticas você teve?","Antes do projeto, quais destas experiências práticas você teve?",object,37,0
+perfil_grad,Você participou ou participa de algum projeto parceiro do Programa Meninas Digitais?,Você participou ou participa de algum projeto parceiro do Programa Meninas Digitais?,object,37,0
+perfil_grad,Caso tenha respondido SIM na pergunta anterior - Qual projeto parceiro você participou ou participa?,Caso tenha respondido SIM na pergunta anterior - Qual projeto parceiro você participou ou participa?,object,28,9
+perfil_grad,"Mesmo que você não participe ativamente, há projetos parceiros do Programa Meninas Digitais ou projetos/comissões com foco na equidade de gênero em seu departamento ou Universidade? Cite todos os que você conhecer.","Mesmo que você não participe ativamente, há projetos parceiros do Programa Meninas Digitais ou projetos/comissões com foco na equidade de gênero em seu departamento ou Universidade? Cite todos os que você conhecer.",object,37,0
+perfil_grad,Quais das seguintes linguagens de programação você já utilizou? (pode marcar mais de uma opção),Quais das seguintes linguagens de programação você já utilizou? (pode marcar mais de uma opção),object,37,0
+perfil_grad,Quais destas plataformas você já utilizou para aprender programação? (pode marcar mais de uma opção),Quais destas plataformas você já utilizou para aprender programação? (pode marcar mais de uma opção),object,37,0
+perfil_grad,Quais destas plataformas você já utilizou para ensinar programação? (pode marcar mais de uma opção),Quais destas plataformas você já utilizou para ensinar programação? (pode marcar mais de uma opção),object,37,0
+perfil_grad,Quais aplicativos ou ferramentas você já usou para aprender tecnologia? (pode marcar mais de uma opção),Quais aplicativos ou ferramentas você já usou para aprender tecnologia? (pode marcar mais de uma opção),object,37,0
+perfil_grad,Quais aplicativos ou ferramentas você já usou para ensinar tecnologia? (pode marcar mais de uma opção),Quais aplicativos ou ferramentas você já usou para ensinar tecnologia? (pode marcar mais de uma opção),object,37,0
+perfil_grad,Quais das seguintes áreas você já teve contato acadêmico ou profissional? (pode marcar mais de uma opção),Quais das seguintes áreas você já teve contato acadêmico ou profissional? (pode marcar mais de uma opção),object,37,0
+perfil_grad,Em que instituição você estuda?,Em que instituição você estuda?,object,37,0
+perfil_grad,"Quando você fez ENEM ou prova para entrar para a universidade, qual era a sua primeira opção de curso?","Quando você fez ENEM ou prova para entrar para a universidade, qual era a sua primeira opção de curso?",object,37,0
+perfil_grad,"Quando você fez ENEM ou prova para entrar para a universidade, qual era a sua segunda opção de curso?","Quando você fez ENEM ou prova para entrar para a universidade, qual era a sua segunda opção de curso?",object,37,0
+perfil_grad,Qual o seu curso atual de Graduação na área da Computação?,Qual o seu curso atual de Graduação na área da Computação?,object,37,0
+perfil_grad,Em que ano entrou para a Universidade?,Em que ano entrou para a Universidade?,object,37,0
+perfil_grad,Qual seu semestre atual?,Qual seu semestre atual?,object,37,0
+perfil_grad,"Esta é a sua primeira experiência universitária? Caso não, conte-nos quais cursos fez anteriormente, mesmo que de forma parcial.","Esta é a sua primeira experiência universitária? Caso não, conte-nos quais cursos fez anteriormente, mesmo que de forma parcial.",object,37,0
+perfil_grad,O quanto você se sente preparada para fazer as disciplinas da sua graduação?,O quanto você se sente preparada para fazer as disciplinas da sua graduação?,object,37,0
+perfil_grad,"O quanto você se sente preparada para atuar como líder nas atividades da graduação, como por exemplo, trabalhos de grupo, apresentação de trabalhos, projetos de extensão e etc.","O quanto você se sente preparada para atuar como líder nas atividades da graduação, como por exemplo, trabalhos de grupo, apresentação de trabalhos, projetos de extensão e etc.",object,37,0
+perfil_grad,Quais pontos positivos de ser uma estudante da Computação?,Quais pontos positivos de ser uma estudante da Computação?,object,37,0
+perfil_grad,Quais pontos negativos de ser uma estudante da Computação?,Quais pontos negativos de ser uma estudante da Computação?,object,37,0
+perfil_grad,Deixe aqui os comentários que quiser sobre sua trajetória acadêmica,Deixe aqui os comentários que quiser sobre sua trajetória acadêmica,object,13,24
+perfil_grad,Deixe aqui os comentários que quiser sobre sua trajetória acadêmica 2,Deixe aqui os comentários que quiser sobre sua trajetória acadêmica 2,object,0,37
+perfil_grad,Você já decidiu qual caminho deseja seguir após a graduação?,Você já decidiu qual caminho deseja seguir após a graduação?,object,37,0
+perfil_grad,Qual caminho mais te interessa?,Qual caminho mais te interessa?,object,37,0
+perfil_grad,O quanto você se sente preparada para atuar no mercado de trabalho na Computação?,O quanto você se sente preparada para atuar no mercado de trabalho na Computação?,object,37,0
+perfil_grad,O quanto você se sente preparada para atuar na academia na área da Computação?,O quanto você se sente preparada para atuar na academia na área da Computação?,object,37,0
+perfil_grad,O quanto você se considera consciente sobre os desafios das mulheres na Computação?,O quanto você se considera consciente sobre os desafios das mulheres na Computação?,object,37,0
+perfil_grad,O quanto você se sente motivada a incentivar outras meninas e mulheres a ingressarem na Computação?,O quanto você se sente motivada a incentivar outras meninas e mulheres a ingressarem na Computação?,object,37,0
+perfil_grad,O que mais despertou seu interesse pelo projeto?,O que mais despertou seu interesse pelo projeto?,object,37,0
+perfil_grad,O que você gostaria de aprender no projeto (selecione até quatro),O que você gostaria de aprender no projeto (selecione até quatro),object,37,0
+perfil_grad,O que mais você gostaria de aprender no projeto?,O que mais você gostaria de aprender no projeto?,object,37,0
+perfil_grad,Deixe aqui os comentários que quiser sobre sua expectativa sobre o Projeto RENACEE_MD,Deixe aqui os comentários que quiser sobre sua expectativa sobre o Projeto RENACEE_MD,object,12,25
+perfil_grad,Qual sua idade?,Qual sua idade?,object,37,0
+perfil_grad,Em que Cidade/Estado você mora?,Em que Cidade/Estado você mora?,object,37,0
+perfil_grad,Qual sua raça/etnia?,Qual sua raça/etnia?,object,37,0
+perfil_grad,Você tem filhos?,Você tem filhos?,object,37,0
+perfil_grad,Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621),Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621),object,37,0
+perfil_grad,Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção),Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção),object,37,0
+perfil_grad,"Caso deseje, deixe aqui suas dúvidas ou comentários.","Caso deseje, deixe aqui suas dúvidas ou comentários.",object,2,35
+perfil_grad,Você leu e concorda que suas respostas sejam utilizadas na pesquisa conforme descrito acima?,Você leu e concorda que suas respostas sejam utilizadas na pesquisa conforme descrito acima?,object,28,9
+perfil_grad,Coluna 54,Coluna 54,object,0,37
+perfil_grad,A universidade fica a que distância da sua casa?,A universidade fica a que distância da sua casa?,object,13,24
+perfil_grad,Você morava na cidade atual quando ingressou na universidade?,Você morava na cidade atual quando ingressou na universidade?,object,13,24
+perfil_grad,Você é a primeira pessoa da sua família a cursar ou concluir o ensino superior?,Você é a primeira pessoa da sua família a cursar ou concluir o ensino superior?,object,13,24
+perfil_grad,Com qual gênero você se identifica?,Com qual gênero você se identifica?,object,13,24
+perfil_pos,ID,ID,object,5,0
+perfil_pos,Confirme se é estudante de pós-graduação do Projeto RENACEE_MD,Confirme se é estudante de pós-graduação do Projeto RENACEE_MD,object,5,0
+perfil_pos,Você leu e concorda em participar da pesquisa conforme descrito acima?,Você leu e concorda em participar da pesquisa conforme descrito acima?,object,3,2
+perfil_pos,Você possui um espaço dedicado para estudo em casa?,Você possui um espaço dedicado para estudo em casa?,object,5,0
+perfil_pos,Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),object,5,0
+perfil_pos,Você possui acesso à internet em casa? (pode marcar mais de uma opção),Você possui acesso à internet em casa? (pode marcar mais de uma opção),object,5,0
+perfil_pos,"Antes do projeto, com que frequência você tinha contato com atividades relacionadas à Computação para a Educação Básica?","Antes do projeto, com que frequência você tinha contato com atividades relacionadas à Computação para a Educação Básica?",object,5,0
+perfil_pos,Você já teve contato com algum projeto de Computação para Educação Básica antes do RENACEE MD?,Você já teve contato com algum projeto de Computação para Educação Básica antes do RENACEE MD?,object,5,0
+perfil_pos,Como você avalia seu nível de experiência com projetos sobre Computação para educação básica antes do RENACEE MD?,Como você avalia seu nível de experiência com projetos sobre Computação para educação básica antes do RENACEE MD?,object,5,0
+perfil_pos,"Antes do projeto, com que frequência você tinha contato com atividades relacionadas à atração e retenção de meninas e mulheres na Computação?","Antes do projeto, com que frequência você tinha contato com atividades relacionadas à atração e retenção de meninas e mulheres na Computação?",object,5,0
+perfil_pos,Você já teve contato com algum projeto de atração e retenção de meninas e mulheres na Computação antes do RENACEE MD?,Você já teve contato com algum projeto de atração e retenção de meninas e mulheres na Computação antes do RENACEE MD?,object,5,0
+perfil_pos,Como você avalia seu nível de experiência com projetos para atração e retenção de meninas e mulheres na Computação antes do RENACEE MD?,Como você avalia seu nível de experiência com projetos para atração e retenção de meninas e mulheres na Computação antes do RENACEE MD?,object,5,0
+perfil_pos,"Antes do projeto, quais destas experiências práticas você teve?","Antes do projeto, quais destas experiências práticas você teve?",object,5,0
+perfil_pos,Você participou ou participa de algum projeto parceiro do Programa Meninas Digitais?,Você participou ou participa de algum projeto parceiro do Programa Meninas Digitais?,object,5,0
+perfil_pos,Caso tenha respondido SIM na pergunta anterior - Qual projeto parceiro você participou ou participa?,Caso tenha respondido SIM na pergunta anterior - Qual projeto parceiro você participou ou participa?,object,3,2
+perfil_pos,"Mesmo que você não participe ativamente, há projetos parceiros do Programa Meninas Digitais ou projetos/comissões com foco na equidade de gênero em seu departamento ou Universidade? Cite todos os que você conhecer.","Mesmo que você não participe ativamente, há projetos parceiros do Programa Meninas Digitais ou projetos/comissões com foco na equidade de gênero em seu departamento ou Universidade? Cite todos os que você conhecer.",object,5,0
+perfil_pos,Quais das seguintes linguagens de programação você já utilizou? (pode marcar mais de uma opção),Quais das seguintes linguagens de programação você já utilizou? (pode marcar mais de uma opção),object,5,0
+perfil_pos,Quais destas plataformas você já utilizou para aprender programação? (pode marcar mais de uma opção),Quais destas plataformas você já utilizou para aprender programação? (pode marcar mais de uma opção),object,5,0
+perfil_pos,Quais destas plataformas você já utilizou para ensinar programação? (pode marcar mais de uma opção),Quais destas plataformas você já utilizou para ensinar programação? (pode marcar mais de uma opção),object,5,0
+perfil_pos,Quais aplicativos ou ferramentas você já usou para aprender tecnologia? (pode marcar mais de uma opção),Quais aplicativos ou ferramentas você já usou para aprender tecnologia? (pode marcar mais de uma opção),object,5,0
+perfil_pos,Quais aplicativos ou ferramentas você já usou para ensinar tecnologia? (pode marcar mais de uma opção),Quais aplicativos ou ferramentas você já usou para ensinar tecnologia? (pode marcar mais de uma opção),object,5,0
+perfil_pos,Quais das seguintes áreas você já teve (ou tem) contato acadêmico ou profissional? (pode marcar mais de uma opção),Quais das seguintes áreas você já teve (ou tem) contato acadêmico ou profissional? (pode marcar mais de uma opção),object,5,0
+perfil_pos,"Quando você fez ENEM ou prova para entrar para a universidade, qual era a sua primeira opção de curso?","Quando você fez ENEM ou prova para entrar para a universidade, qual era a sua primeira opção de curso?",object,5,0
+perfil_pos,"Quando você fez ENEM ou prova para entrar para a universidade, qual era a sua segunda opção de curso?","Quando você fez ENEM ou prova para entrar para a universidade, qual era a sua segunda opção de curso?",object,5,0
+perfil_pos,Em que ano entrou para a o seu curso atual de pós-graduação?,Em que ano entrou para a o seu curso atual de pós-graduação?,object,5,0
+perfil_pos,Qual seu semestre atual?,Qual seu semestre atual?,object,5,0
+perfil_pos,Em que instituição você faz Pós-Graduação?,Em que instituição você faz Pós-Graduação?,object,5,0
+perfil_pos,Marque a(s) área(s) da sua pesquisa (pode marcar mais de uma opção),Marque a(s) área(s) da sua pesquisa (pode marcar mais de uma opção),object,5,0
+perfil_pos,Qual o tema da sua pesquisa atual de mestrado/doutorado?,Qual o tema da sua pesquisa atual de mestrado/doutorado?,object,5,0
+perfil_pos,"Esta é a sua primeira experiência em pós-graduação? Caso não, conte-nos quais cursos fez anteriormente, mesmo que de forma parcial.","Esta é a sua primeira experiência em pós-graduação? Caso não, conte-nos quais cursos fez anteriormente, mesmo que de forma parcial.",object,5,0
+perfil_pos,O quanto você se sente preparada/o para fazer as disciplinas da pós-graduação?,O quanto você se sente preparada/o para fazer as disciplinas da pós-graduação?,object,5,0
+perfil_pos,"O quanto você se sente preparada para atuar como líder nas atividades da pós-graduação, como por exemplo, trabalhos de grupo, apresentação de trabalhos, projetos de pesquisa e etc.","O quanto você se sente preparada para atuar como líder nas atividades da pós-graduação, como por exemplo, trabalhos de grupo, apresentação de trabalhos, projetos de pesquisa e etc.",object,5,0
+perfil_pos,Quais pontos positivos de ser uma estudante de Pós-graduação em Computação?,Quais pontos positivos de ser uma estudante de Pós-graduação em Computação?,object,5,0
+perfil_pos,Quais pontos negativos de ser uma estudante de Pós-graduação em Computação?,Quais pontos negativos de ser uma estudante de Pós-graduação em Computação?,object,5,0
+perfil_pos,Deixe aqui os comentários que quiser sobre sua trajetória acadêmica,Deixe aqui os comentários que quiser sobre sua trajetória acadêmica,object,2,3
+perfil_pos,Você já decidiu qual caminho deseja seguir após a pós-graduação?,Você já decidiu qual caminho deseja seguir após a pós-graduação?,object,5,0
+perfil_pos,Qual caminho mais te interessa?,Qual caminho mais te interessa?,object,5,0
+perfil_pos,O quanto você se sente preparada para atuar no mercado de trabalho na Computação?,O quanto você se sente preparada para atuar no mercado de trabalho na Computação?,object,5,0
+perfil_pos,O quanto você se sente preparada para atuar na academia na área da Computação?,O quanto você se sente preparada para atuar na academia na área da Computação?,object,5,0
+perfil_pos,O quanto você se considera consciente sobre os desafios das mulheres na Computação?,O quanto você se considera consciente sobre os desafios das mulheres na Computação?,object,5,0
+perfil_pos,O quanto você se sente motivada a incentivar outras meninas e mulheres a ingressarem na Computação?,O quanto você se sente motivada a incentivar outras meninas e mulheres a ingressarem na Computação?,object,5,0
+perfil_pos,O que mais despertou seu interesse pelo projeto?,O que mais despertou seu interesse pelo projeto?,object,5,0
+perfil_pos,O que você gostaria de aprender no projeto (selecione até quatro),O que você gostaria de aprender no projeto (selecione até quatro),object,5,0
+perfil_pos,O que mais você gostaria de aprender no projeto?,O que mais você gostaria de aprender no projeto?,object,5,0
+perfil_pos,Deixe aqui os comentários que quiser sobre sua expectativa sobre o Projeto RENACEE_MD,Deixe aqui os comentários que quiser sobre sua expectativa sobre o Projeto RENACEE_MD,object,1,4
+perfil_pos,Qual sua idade?,Qual sua idade?,object,5,0
+perfil_pos,Em que Cidade/Estado você mora?,Em que Cidade/Estado você mora?,object,5,0
+perfil_pos,Qual sua raça/etnia?,Qual sua raça/etnia?,object,5,0
+perfil_pos,Qual o seu gênero?,Qual o seu gênero?,object,5,0
+perfil_pos,Você tem filhos?,Você tem filhos?,object,5,0
+perfil_pos,Qual o valor aproximado da renda da sua família? Considere família as pessoas que vivem da mesma renda mensal. (O salário mínimo em 2026 no Brasil é de R$ 1.621),Qual o valor aproximado da renda da sua família? Considere família as pessoas que vivem da mesma renda mensal. (O salário mínimo em 2026 no Brasil é de R$ 1.621),object,5,0
+perfil_pos,Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção),Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção),object,5,0
+perfil_pos,Tem bolsa de Alguma Agência de Fomento ou Instituição Privada?,Tem bolsa de Alguma Agência de Fomento ou Instituição Privada?,object,5,0
+perfil_pos,"Caso tenha respondido sim, qual bolsa e agencia?","Caso tenha respondido sim, qual bolsa e agencia?",object,3,2
+perfil_pos,"Caso deseje, deixe aqui suas dúvidas ou comentários.","Caso deseje, deixe aqui suas dúvidas ou comentários.",object,0,5
+perfil_pos,Você leu e concorda que suas respostas sejam utilizadas na pesquisa conforme descrito acima?,Você leu e concorda que suas respostas sejam utilizadas na pesquisa conforme descrito acima?,object,0,5
+perfil_pos,Com qual gênero você se identifica?,Com qual gênero você se identifica?,object,0,5
+perfil_pos,A universidade fica a que distância da sua casa?,A universidade fica a que distância da sua casa?,object,0,5
+perfil_pos,Você morava na cidade atual quando ingressou na pós-graduação?,Você morava na cidade atual quando ingressou na pós-graduação?,object,0,5
+perfil_pos,Você é a primeira pessoa da sua família a cursar ou concluir a pós-graduação?,Você é a primeira pessoa da sua família a cursar ou concluir a pós-graduação?,object,0,5
+perfil_pos,Envie uma foto sua para registro e divulgação de sua participação no projeto 📸,Envie uma foto sua para registro e divulgação de sua participação no projeto 📸,object,0,5
+perfil_prof_eb,ID,ID,object,14,0
+perfil_prof_eb,Confirme se é professora do projeto,Confirme se é professora do projeto,object,14,0
+perfil_prof_eb,Você leu e concorda que suas respostas sejam utilizadas na pesquisa conforme descrito acima?,Você leu e concorda que suas respostas sejam utilizadas na pesquisa conforme descrito acima?,object,4,10
+perfil_prof_eb,Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),object,14,0
+perfil_prof_eb,Você possui acesso à internet em casa? (pode marcar mais de uma opção),Você possui acesso à internet em casa? (pode marcar mais de uma opção),object,14,0
+perfil_prof_eb,"Na sua escola, há laboratórios ou equipamentos disponíveis para atividades com Computação?","Na sua escola, há laboratórios ou equipamentos disponíveis para atividades com Computação?",object,14,0
+perfil_prof_eb,Seus estudantes tem acesso à tecnologia na escola?,Seus estudantes tem acesso à tecnologia na escola?,object,14,0
+perfil_prof_eb,"Antes de entrar no projeto, qual era o seu interesse pela área de Computação?","Antes de entrar no projeto, qual era o seu interesse pela área de Computação?",object,14,0
+perfil_prof_eb,"Antes do projeto, com que frequência você tinha contato com atividades relacionadas à Computação em sala de aula?","Antes do projeto, com que frequência você tinha contato com atividades relacionadas à Computação em sala de aula?",object,14,0
+perfil_prof_eb,"Antes do projeto, com que frequência você tinha contato com atividades relacionadas à atração e retenção de meninas e mulheres na Computação?","Antes do projeto, com que frequência você tinha contato com atividades relacionadas à atração e retenção de meninas e mulheres na Computação?",object,14,0
+perfil_prof_eb,Você já teve contato com algum projeto de atração e retenção de meninas e mulheres na Computação antes do RENACEE MD?,Você já teve contato com algum projeto de atração e retenção de meninas e mulheres na Computação antes do RENACEE MD?,object,14,0
+perfil_prof_eb,Como você avalia seu nível de conhecimento sobre Computação antes do projeto?,Como você avalia seu nível de conhecimento sobre Computação antes do projeto?,object,14,0
+perfil_prof_eb,Quais das seguintes linguagens de programação você já ouviu falar ou utilizou? (pode marcar mais de uma opção),Quais das seguintes linguagens de programação você já ouviu falar ou utilizou? (pode marcar mais de uma opção),object,14,0
+perfil_prof_eb,Quais destas plataformas você já utilizou para aprender programação? (pode marcar mais de uma opção),Quais destas plataformas você já utilizou para aprender programação? (pode marcar mais de uma opção),object,14,0
+perfil_prof_eb,Quais aplicativos ou ferramentas você já usou para aprender ou trabalhar com tecnologia? (pode marcar mais de uma opção),Quais aplicativos ou ferramentas você já usou para aprender ou trabalhar com tecnologia? (pode marcar mais de uma opção),object,14,0
+perfil_prof_eb,Você já utilizou algum sistema operacional? (pode marcar mais de uma opção),Você já utilizou algum sistema operacional? (pode marcar mais de uma opção),object,14,0
+perfil_prof_eb,O que mais despertou seu interesse pelo projeto?,O que mais despertou seu interesse pelo projeto?,object,14,0
+perfil_prof_eb,O que você gostaria de aprender no projeto para aplicar em sala de aula? (selecione até quatro),O que você gostaria de aprender no projeto para aplicar em sala de aula? (selecione até quatro),object,14,0
+perfil_prof_eb,O quanto você se sente preparada para ensinar conceitos de Computação ou pensamento computacional em sala de aula?,O quanto você se sente preparada para ensinar conceitos de Computação ou pensamento computacional em sala de aula?,object,14,0
+perfil_prof_eb,O quanto você se sente preparada para utilizar recursos de tecnologia em suas práticas pedagógicas?,O quanto você se sente preparada para utilizar recursos de tecnologia em suas práticas pedagógicas?,object,14,0
+perfil_prof_eb,O quanto você se considera consciente sobre os desafios das mulheres na Computação?,O quanto você se considera consciente sobre os desafios das mulheres na Computação?,object,14,0
+perfil_prof_eb,O quanto você se sente motivada a incentivar outras meninas e mulheres a ingressarem na Computação?,O quanto você se sente motivada a incentivar outras meninas e mulheres a ingressarem na Computação?,object,14,0
+perfil_prof_eb,O que mais você gostaria de aprender no projeto?,O que mais você gostaria de aprender no projeto?,object,14,0
+perfil_prof_eb,Qual sua idade?,Qual sua idade?,object,14,0
+perfil_prof_eb,Em que Cidade/Estado você mora?,Em que Cidade/Estado você mora?,object,14,0
+perfil_prof_eb,Em que escola você leciona?,Em que escola você leciona?,object,14,0
+perfil_prof_eb,Em qual turno você leciona?,Em qual turno você leciona?,object,14,0
+perfil_prof_eb,Em qual área de conhecimento você leciona?,Em qual área de conhecimento você leciona?,object,14,0
+perfil_prof_eb,Você leciona em qual nível de ensino?,Você leciona em qual nível de ensino?,object,14,0
+perfil_prof_eb,Há quanto tempo você atua como professora?,Há quanto tempo você atua como professora?,object,14,0
+perfil_prof_eb,Qual sua raça/etnia?,Qual sua raça/etnia?,object,14,0
+perfil_prof_eb,Você tem filhos?,Você tem filhos?,object,14,0
+perfil_prof_eb,Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621),Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621),object,14,0
+perfil_prof_eb,Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção),Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção),object,14,0
+perfil_prof_eb,"Caso deseje, deixe aqui suas dúvidas ou comentários.","Caso deseje, deixe aqui suas dúvidas ou comentários.",object,0,14
+perfil_prof_eb,Com qual gênero você se identifica?,Com qual gênero você se identifica?,object,1,13
+perfil_prof_eb,Envie uma foto sua para registro e divulgação de sua participação no projeto 📸,Envie uma foto sua para registro e divulgação de sua participação no projeto 📸,object,1,13

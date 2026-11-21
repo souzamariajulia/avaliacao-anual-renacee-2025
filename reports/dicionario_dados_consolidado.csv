@@ -1,0 +1,94 @@
+﻿base,variavel,pergunta_origem,grupo_origem,categoria,tipo_dado,aplicabilidade,registros,preenchidos,ausentes,valores_distintos,situacao_documentacao
+avaliacao_geral,ID,,,Identificação e controle,str,,92,92,0,92,Origem não identificada nos dois mapeamentos
+avaliacao_geral,grupo,,,Identificação e controle,str,,92,92,0,5,Origem não identificada nos dois mapeamentos
+avaliacao_geral,expectativas,O RENACEE_MD tem atendido suas expectativas. | O RENACEE_MD tem atendido suas expectativas?,aval_eb | aval_prof | aval_superior,Avaliação,str,aval_eb | aval_prof | aval_superior,92,92,0,4,Origem documentada
+avaliacao_geral,desistencia_projeto,"Em algum momento, você considerou desistir de participar do RENACEE_MD?",aval_eb | aval_prof | aval_superior,Avaliação,str,aval_eb | aval_prof | aval_superior,92,92,0,4,Origem documentada
+avaliacao_geral,continuar_projeto,Você pretende continuar participando do ReNacEE_MD no futuro?,aval_eb | aval_prof | aval_superior,Avaliação,str,aval_eb | aval_prof | aval_superior,92,92,0,4,Origem documentada
+avaliacao_geral,representatividade,Você se sente representada nas ações e materiais do RENACEE_MD.,aval_eb | aval_superior,Avaliação,str,aval_eb | aval_superior,92,69,23,3,Origem documentada
+avaliacao_geral,motivacao_futuro,Você se sente mais motivada em relação ao seu futuro acadêmico/profissional após participar do RENACEE_MD ? | Você se sente mais motivada em relação ao seu futuro acadêmico/profissional após participar do RENACEE_MD.,aval_eb | aval_superior,Avaliação,str,aval_eb | aval_superior,92,69,23,4,Origem documentada
+avaliacao_geral,ampliacao_oportunidades,O RENACEE_MD contribuiu para ampliar suas oportunidades acadêmicas ou profissionais. | O RENACEE_MD contribuiu para ampliar suas oportunidades acadêmicas ou profissionais?,aval_eb | aval_superior,Avaliação,str,aval_eb | aval_superior,92,69,23,4,Origem documentada
+avaliacao_geral,interesse_computacao_pos,,,Avaliação,str,,92,49,43,3,Origem não identificada nos dois mapeamentos
+avaliacao_geral,conhecimento_computacao_pos,,,Avaliação,str,,92,49,43,3,Origem não identificada nos dois mapeamentos
+avaliacao_geral,frequencia_computacao_pos,,,Avaliação,str,,92,49,43,4,Origem não identificada nos dois mapeamentos
+avaliacao_geral,perspectivas_percebidas_multirresposta,,,Avaliação,str,,92,69,23,37,Origem não identificada nos dois mapeamentos
+avaliacao_geral,etapas_interseccionalidade_docencia,,,Avaliação,str,,92,23,69,4,Origem não identificada nos dois mapeamentos
+avaliacao_geral,idade,Qual sua idade?,EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,92,79,13,26,Origem documentada
+avaliacao_geral,raca_etnia,Qual sua raça/etnia?,EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,92,80,12,4,Origem documentada
+avaliacao_geral,genero,Com qual gênero você se identifica?,GRAD | POS | PROF_EB,Perfil,str,GRAD | POS | PROF_EB,92,1,91,1,Origem documentada
+avaliacao_geral,cidade_uf,Em que Cidade/Estado você mora?,EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,92,80,12,14,Origem documentada
+avaliacao_geral,renda_familiar_faixa_sm,Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621) | Qual o valor aproximado da renda da sua família? Considere família as pessoas que vivem da mesma renda mensal. (O salário mínimo em 2026 no Brasil é de R$ 1.621),EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,92,80,12,4,Origem documentada
+avaliacao_geral,beneficios_sociais_multirresposta,Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção),EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,92,80,12,8,Origem documentada
+avaliacao_geral,dispositivos_multirresposta,Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,92,80,12,6,Origem documentada
+avaliacao_geral,internet_domestica_multirresposta,Você possui acesso à internet em casa? (pode marcar mais de uma opção),EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,92,80,12,6,Origem documentada
+avaliacao_geral,espaco_estudo,Você possui um espaço dedicado para estudo em casa?,EB | GRAD | POS,Perfil,str,EB | GRAD | POS,92,66,26,3,Origem documentada
+avaliacao_geral,distancia_deslocamento,A escola fica a que distância da sua casa? | A universidade fica a que distância da sua casa?,EB | GRAD | POS,Perfil,str,EB | GRAD | POS,92,1,91,1,Origem documentada
+avaliacao_geral,responsabilidades_familiares_original,Você tem filhos? | Você é mãe?,EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,92,80,12,5,Origem documentada
+avaliacao_geral,instituicao_vinculo,Em que escola você estuda? | Em que escola você leciona? | Em que instituição você estuda? | Em que instituição você faz Pós-Graduação?,EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,92,80,12,20,Origem documentada
+avaliacao_geral,ano_escolar_eb,Qual seu ano escolar atual?,EB,Perfil,str,EB,92,46,46,6,Origem documentada
+avaliacao_geral,turno_estudo_eb,Em qual turno você estuda?,EB,Perfil,str,EB,92,46,46,4,Origem documentada
+avaliacao_geral,semestre_graduacao_pos,Qual seu semestre atual?,GRAD | POS,Perfil,str,GRAD | POS,92,20,72,8,Origem documentada
+avaliacao_geral,primeira_geracao_ensino_superior,Você é a primeira pessoa da sua família a cursar ou concluir o ensino superior?,GRAD,Perfil,str,GRAD,92,0,92,0,Origem documentada
+avaliacao_geral,primeira_geracao_pos_graduacao,Você é a primeira pessoa da sua família a cursar ou concluir a pós-graduação?,POS,Perfil,str,POS,92,0,92,0,Origem documentada
+avaliacao_geral,area_docencia,Em qual área de conhecimento você leciona?,PROF_EB,Perfil,str,PROF_EB,92,14,78,5,Origem documentada
+avaliacao_geral,experiencia_docente,Há quanto tempo você atua como professora?,PROF_EB,Perfil,str,PROF_EB,92,14,78,3,Origem documentada
+avaliacao_geral,laboratorio_escola,"Na sua escola, há laboratórios ou equipamentos disponíveis para atividades com Computação?",PROF_EB,Perfil,str,PROF_EB,92,14,78,4,Origem documentada
+avaliacao_geral,acesso_estudantes_tecnologia,Seus estudantes tem acesso à tecnologia na escola?,PROF_EB,Perfil,str,PROF_EB,92,14,78,3,Origem documentada
+avaliacao_geral,perfil_disponivel,,,Identificação e controle,str,,92,92,0,2,Origem não identificada nos dois mapeamentos
+perfis_harmonizados,ID,,,Identificação e controle,str,,130,130,0,130,Origem não identificada nos dois mapeamentos
+perfis_harmonizados,grupo,,,Identificação e controle,str,,130,130,0,4,Origem não identificada nos dois mapeamentos
+perfis_harmonizados,idade,Qual sua idade?,EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,130,128,2,28,Origem documentada
+perfis_harmonizados,raca_etnia,Qual sua raça/etnia?,EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,130,130,0,4,Origem documentada
+perfis_harmonizados,genero,Com qual gênero você se identifica?,GRAD | POS | PROF_EB,Perfil,str,GRAD | POS | PROF_EB,130,14,116,2,Origem documentada
+perfis_harmonizados,cidade_uf,Em que Cidade/Estado você mora?,EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,130,130,0,19,Origem documentada
+perfis_harmonizados,renda_familiar_faixa_sm,Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621) | Qual o valor aproximado da renda da sua família? Considere família as pessoas que vivem da mesma renda mensal. (O salário mínimo em 2026 no Brasil é de R$ 1.621),EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,130,130,0,4,Origem documentada
+perfis_harmonizados,beneficios_sociais_multirresposta,Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção),EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,130,130,0,10,Origem documentada
+perfis_harmonizados,dispositivos_multirresposta,Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,130,130,0,6,Origem documentada
+perfis_harmonizados,internet_domestica_multirresposta,Você possui acesso à internet em casa? (pode marcar mais de uma opção),EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,130,130,0,8,Origem documentada
+perfis_harmonizados,espaco_estudo,Você possui um espaço dedicado para estudo em casa?,EB | GRAD | POS,Perfil,str,EB | GRAD | POS,130,116,14,4,Origem documentada
+perfis_harmonizados,distancia_deslocamento,A escola fica a que distância da sua casa? | A universidade fica a que distância da sua casa?,EB | GRAD | POS,Perfil,str,EB | GRAD | POS,130,32,98,5,Origem documentada
+perfis_harmonizados,responsabilidades_familiares_original,Você tem filhos? | Você é mãe?,EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,130,130,0,5,Origem documentada
+perfis_harmonizados,instituicao_vinculo,Em que escola você estuda? | Em que escola você leciona? | Em que instituição você estuda? | Em que instituição você faz Pós-Graduação?,EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,130,130,0,26,Origem documentada
+perfis_harmonizados,ano_escolar_eb,Qual seu ano escolar atual?,EB,Perfil,str,EB,130,74,56,10,Origem documentada
+perfis_harmonizados,turno_estudo_eb,Em qual turno você estuda?,EB,Perfil,str,EB,130,74,56,4,Origem documentada
+perfis_harmonizados,semestre_graduacao_pos,Qual seu semestre atual?,GRAD | POS,Perfil,str,GRAD | POS,130,42,88,9,Origem documentada
+perfis_harmonizados,primeira_geracao_ensino_superior,Você é a primeira pessoa da sua família a cursar ou concluir o ensino superior?,GRAD,Perfil,str,GRAD,130,13,117,2,Origem documentada
+perfis_harmonizados,primeira_geracao_pos_graduacao,Você é a primeira pessoa da sua família a cursar ou concluir a pós-graduação?,POS,Perfil,str,POS,130,0,130,0,Origem documentada
+perfis_harmonizados,area_docencia,Em qual área de conhecimento você leciona?,PROF_EB,Perfil,str,PROF_EB,130,14,116,5,Origem documentada
+perfis_harmonizados,experiencia_docente,Há quanto tempo você atua como professora?,PROF_EB,Perfil,str,PROF_EB,130,14,116,3,Origem documentada
+perfis_harmonizados,laboratorio_escola,"Na sua escola, há laboratórios ou equipamentos disponíveis para atividades com Computação?",PROF_EB,Perfil,str,PROF_EB,130,14,116,4,Origem documentada
+perfis_harmonizados,acesso_estudantes_tecnologia,Seus estudantes tem acesso à tecnologia na escola?,PROF_EB,Perfil,str,PROF_EB,130,14,116,3,Origem documentada
+avaliacao_com_perfil,ID,,,Identificação e controle,str,,80,80,0,80,Origem não identificada nos dois mapeamentos
+avaliacao_com_perfil,grupo,,,Identificação e controle,str,,80,80,0,4,Origem não identificada nos dois mapeamentos
+avaliacao_com_perfil,expectativas,O RENACEE_MD tem atendido suas expectativas. | O RENACEE_MD tem atendido suas expectativas?,aval_eb | aval_prof | aval_superior,Avaliação,str,aval_eb | aval_prof | aval_superior,80,80,0,4,Origem documentada
+avaliacao_com_perfil,desistencia_projeto,"Em algum momento, você considerou desistir de participar do RENACEE_MD?",aval_eb | aval_prof | aval_superior,Avaliação,str,aval_eb | aval_prof | aval_superior,80,80,0,4,Origem documentada
+avaliacao_com_perfil,continuar_projeto,Você pretende continuar participando do ReNacEE_MD no futuro?,aval_eb | aval_prof | aval_superior,Avaliação,str,aval_eb | aval_prof | aval_superior,80,80,0,4,Origem documentada
+avaliacao_com_perfil,representatividade,Você se sente representada nas ações e materiais do RENACEE_MD.,aval_eb | aval_superior,Avaliação,str,aval_eb | aval_superior,80,66,14,3,Origem documentada
+avaliacao_com_perfil,motivacao_futuro,Você se sente mais motivada em relação ao seu futuro acadêmico/profissional após participar do RENACEE_MD ? | Você se sente mais motivada em relação ao seu futuro acadêmico/profissional após participar do RENACEE_MD.,aval_eb | aval_superior,Avaliação,str,aval_eb | aval_superior,80,66,14,4,Origem documentada
+avaliacao_com_perfil,ampliacao_oportunidades,O RENACEE_MD contribuiu para ampliar suas oportunidades acadêmicas ou profissionais. | O RENACEE_MD contribuiu para ampliar suas oportunidades acadêmicas ou profissionais?,aval_eb | aval_superior,Avaliação,str,aval_eb | aval_superior,80,66,14,4,Origem documentada
+avaliacao_com_perfil,interesse_computacao_pos,,,Avaliação,str,,80,46,34,3,Origem não identificada nos dois mapeamentos
+avaliacao_com_perfil,conhecimento_computacao_pos,,,Avaliação,str,,80,46,34,3,Origem não identificada nos dois mapeamentos
+avaliacao_com_perfil,frequencia_computacao_pos,,,Avaliação,str,,80,46,34,4,Origem não identificada nos dois mapeamentos
+avaliacao_com_perfil,perspectivas_percebidas_multirresposta,,,Avaliação,str,,80,66,14,37,Origem não identificada nos dois mapeamentos
+avaliacao_com_perfil,etapas_interseccionalidade_docencia,,,Avaliação,str,,80,14,66,4,Origem não identificada nos dois mapeamentos
+avaliacao_com_perfil,idade,Qual sua idade?,EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,80,79,1,26,Origem documentada
+avaliacao_com_perfil,raca_etnia,Qual sua raça/etnia?,EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,80,80,0,4,Origem documentada
+avaliacao_com_perfil,genero,Com qual gênero você se identifica?,GRAD | POS | PROF_EB,Perfil,str,GRAD | POS | PROF_EB,80,1,79,1,Origem documentada
+avaliacao_com_perfil,cidade_uf,Em que Cidade/Estado você mora?,EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,80,80,0,14,Origem documentada
+avaliacao_com_perfil,renda_familiar_faixa_sm,Qual o valor aproximado da renda da sua família? (O salário mínimo em 2026 no Brasil é de R$ 1.621) | Qual o valor aproximado da renda da sua família? Considere família as pessoas que vivem da mesma renda mensal. (O salário mínimo em 2026 no Brasil é de R$ 1.621),EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,80,80,0,4,Origem documentada
+avaliacao_com_perfil,beneficios_sociais_multirresposta,Você ou sua família recebem algum benefício social? (pode marcar mais de uma opção),EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,80,80,0,8,Origem documentada
+avaliacao_com_perfil,dispositivos_multirresposta,Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,80,80,0,6,Origem documentada
+avaliacao_com_perfil,internet_domestica_multirresposta,Você possui acesso à internet em casa? (pode marcar mais de uma opção),EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,80,80,0,6,Origem documentada
+avaliacao_com_perfil,espaco_estudo,Você possui um espaço dedicado para estudo em casa?,EB | GRAD | POS,Perfil,str,EB | GRAD | POS,80,66,14,3,Origem documentada
+avaliacao_com_perfil,distancia_deslocamento,A escola fica a que distância da sua casa? | A universidade fica a que distância da sua casa?,EB | GRAD | POS,Perfil,str,EB | GRAD | POS,80,1,79,1,Origem documentada
+avaliacao_com_perfil,responsabilidades_familiares_original,Você tem filhos? | Você é mãe?,EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,80,80,0,5,Origem documentada
+avaliacao_com_perfil,instituicao_vinculo,Em que escola você estuda? | Em que escola você leciona? | Em que instituição você estuda? | Em que instituição você faz Pós-Graduação?,EB | GRAD | POS | PROF_EB,Perfil,str,EB | GRAD | POS | PROF_EB,80,80,0,20,Origem documentada
+avaliacao_com_perfil,ano_escolar_eb,Qual seu ano escolar atual?,EB,Perfil,str,EB,80,46,34,6,Origem documentada
+avaliacao_com_perfil,turno_estudo_eb,Em qual turno você estuda?,EB,Perfil,str,EB,80,46,34,4,Origem documentada
+avaliacao_com_perfil,semestre_graduacao_pos,Qual seu semestre atual?,GRAD | POS,Perfil,str,GRAD | POS,80,20,60,8,Origem documentada
+avaliacao_com_perfil,primeira_geracao_ensino_superior,Você é a primeira pessoa da sua família a cursar ou concluir o ensino superior?,GRAD,Perfil,str,GRAD,80,0,80,0,Origem documentada
+avaliacao_com_perfil,primeira_geracao_pos_graduacao,Você é a primeira pessoa da sua família a cursar ou concluir a pós-graduação?,POS,Perfil,str,POS,80,0,80,0,Origem documentada
+avaliacao_com_perfil,area_docencia,Em qual área de conhecimento você leciona?,PROF_EB,Perfil,str,PROF_EB,80,14,66,5,Origem documentada
+avaliacao_com_perfil,experiencia_docente,Há quanto tempo você atua como professora?,PROF_EB,Perfil,str,PROF_EB,80,14,66,3,Origem documentada
+avaliacao_com_perfil,laboratorio_escola,"Na sua escola, há laboratórios ou equipamentos disponíveis para atividades com Computação?",PROF_EB,Perfil,str,PROF_EB,80,14,66,4,Origem documentada
+avaliacao_com_perfil,acesso_estudantes_tecnologia,Seus estudantes tem acesso à tecnologia na escola?,PROF_EB,Perfil,str,PROF_EB,80,14,66,3,Origem documentada
+avaliacao_com_perfil,perfil_disponivel,,,Identificação e controle,str,,80,80,0,1,Origem não identificada nos dois mapeamentos

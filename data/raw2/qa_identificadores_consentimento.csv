@@ -1,0 +1,8 @@
+﻿fonte,linhas,ids_vazios,linhas_com_id_duplicado,ids_distintos,coluna_consentimento,consent_concedido,consent_negado,consent_revisar_ausente,consent_revisar_desconhecido,consent_revisar_sem_coluna
+aval_eb,49,0,0,49,Você leu e concorda que suas respostas sejam utilizadas na pesquisa conforme descrito acima?,49,0,0,0,0
+aval_superior,20,0,0,20,Você leu e concorda em participar da pesquisa conforme descrito acima?,20,0,0,0,0
+aval_prof,23,0,0,23,Você leu e concorda em participar da pesquisa conforme descrito acima?,23,0,0,0,0
+perfil_eb,75,0,0,75,Você leu e concorda que suas respostas sejam utilizadas na pesquisa conforme descrito acima?,29,1,45,0,0
+perfil_grad,37,0,0,37,Você leu e concorda que suas respostas sejam utilizadas na pesquisa conforme descrito acima?,28,0,9,0,0
+perfil_pos,5,0,0,5,(ausente),0,0,0,0,5
+perfil_prof_eb,14,0,0,14,Você leu e concorda que suas respostas sejam utilizadas na pesquisa conforme descrito acima?,4,0,10,0,0

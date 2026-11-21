@@ -1,0 +1,19 @@
+﻿fonte,variavel_harmonizada,coluna_original,disponivel
+aval_eb,expectativas,O RENACEE_MD tem atendido suas expectativas?,True
+aval_eb,desistencia_projeto,"Em algum momento, você considerou desistir de participar do RENACEE_MD?",True
+aval_eb,continuar_projeto,Você pretende continuar participando do ReNacEE_MD no futuro?,True
+aval_eb,representatividade,Você se sente representada nas ações e materiais do RENACEE_MD.,True
+aval_eb,motivacao_futuro,Você se sente mais motivada em relação ao seu futuro acadêmico/profissional após participar do RENACEE_MD ?,True
+aval_eb,ampliacao_oportunidades,O RENACEE_MD contribuiu para ampliar suas oportunidades acadêmicas ou profissionais?,True
+aval_superior,expectativas,O RENACEE_MD tem atendido suas expectativas.,True
+aval_superior,desistencia_projeto,"Em algum momento, você considerou desistir de participar do RENACEE_MD?",True
+aval_superior,continuar_projeto,Você pretende continuar participando do ReNacEE_MD no futuro?,True
+aval_superior,representatividade,Você se sente representada nas ações e materiais do RENACEE_MD.,True
+aval_superior,motivacao_futuro,Você se sente mais motivada em relação ao seu futuro acadêmico/profissional após participar do RENACEE_MD.,True
+aval_superior,ampliacao_oportunidades,O RENACEE_MD contribuiu para ampliar suas oportunidades acadêmicas ou profissionais.,True
+aval_prof,expectativas,O RENACEE_MD tem atendido suas expectativas?,True
+aval_prof,desistencia_projeto,"Em algum momento, você considerou desistir de participar do RENACEE_MD?",True
+aval_prof,continuar_projeto,Você pretende continuar participando do ReNacEE_MD no futuro?,True
+aval_prof,representatividade,,False
+aval_prof,motivacao_futuro,,False
+aval_prof,ampliacao_oportunidades,,False

@@ -1,0 +1,236 @@
+﻿Dimensão de análise interseccional,Fonte,Título,Perfil associado,Tipo de Variável,Questões relacionadas,Seção do Formulário,_aba_mapeamento
+,Avaliação Anual,Nível de interesse por Computação,Bolsista ICj,Dependente,"Após o 1o ano do projeto, como você avalia o seu interesse pela área de Computação?",Contato com a Computação,bolsistas ICj
+,Avaliação Anual,Frequência de contato com Computação,Bolsista ICj,Dependente,"Após o 1o ano do projeto, com que frequência você tem contato com atividades relacionadas à Computação?",Contato com a Computação,bolsistas ICj
+,Avaliação Anual,Nível de conhecimento sobre Computação,Bolsista ICj,Dependente,"Após o 1o ano do projeto, como você avalia seu nível de conhecimento sobre Computação?",Contato com a Computação,bolsistas ICj
+,Perfil,Nível de interesse por Computação,Bolsista ICj,Independente,"Antes de entrar no projeto, qual era o seu interesse pela área de Computação?",Contato Prévio com a Computação,bolsistas ICj
+,Perfil,Frequência de contato com Computação,Bolsista ICj,Independente,"Antes do projeto, com que frequência você tinha contato com atividades relacionadas à Computação?",Contato Prévio com a Computação,bolsistas ICj
+,Perfil,Nível de conhecimento sobre Computação,Bolsista ICj,Independente,Como você avalia seu nível de conhecimento sobre Computação antes do projeto?,Contato Prévio com a Computação,bolsistas ICj
+,Avaliação Anual,Decisão de carreira,Bolsista ICj,Dependente,Você já decidiu qual carreira seguir?,Expectativas e Carreira,bolsistas ICj
+,Avaliação Anual,Decisão de área do conhecimento para carreira,Bolsista ICj,Dependente,Qual área de conhecimento mais te interessa?,Expectativas e Carreira,bolsistas ICj
+,Perfil,Decisão de carreira,Bolsista ICj,Independente,Você já decidiu qual carreira seguir?,Expectativas para o projeto,bolsistas ICj
+,Perfil,Decisão de área do conhecimento para carreira,Bolsista ICj,Independente,Qual área de conhecimento mais te interessa?,Expectativas para o projeto,bolsistas ICj
+,Avaliação Anual,Conhecimento sobre linguagens de programação,Bolsista ICj e Professora EB,Dependente,Quais das seguintes linguagens de programação você já ouviu falar ou utilizou?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,bolsistas ICj
+,Avaliação Anual,Uso de plataformas de programação,Bolsista ICj e Professora EB,Dependente,Quais destas plataformas você já utilizou para aprender programação?,Uso de Tecnologias e Aplicativos,bolsistas ICj
+,Avaliação Anual,Uso de aplicativos ou ferramentas de tecnologia,Bolsista ICj e Professora EB,Dependente,Quais aplicativos ou ferramentas você já usou para aprender ou trabalhar com tecnologia?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,bolsistas ICj
+,Avaliação Anual,Uso de sistemas operacionais,Bolsista ICj e Professora EB,Dependente,Você já utilizou algum sistema operacional?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,bolsistas ICj
+,Perfil,Conhecimento sobre linguagens de programação,Bolsista ICj,Independente,Quais das seguintes linguagens de programação você já ouviu falar ou utilizou?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,bolsistas ICj
+,Perfil,Uso de plataformas de programação,Bolsista ICj,Independente,Quais destas plataformas você já utilizou para aprender programação?,Uso de Tecnologias e Aplicativos,bolsistas ICj
+,Perfil,Uso de aplicativos ou ferramentas de tecnologia,Bolsista ICj,Independente,Quais aplicativos ou ferramentas você já usou para aprender ou trabalhar com tecnologia?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,bolsistas ICj
+,Perfil,Uso de sistemas operacionais,Bolsista ICj,Independente,Você já utilizou algum sistema operacional?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,bolsistas ICj
+,Avaliação Anual,Satisfação,Todos,Dependente,O RENACEE_MD tem atendido suas expectativas?,Impacto do projeto,bolsistas ICj
+,Avaliação Anual,Motivação,Todos,Dependente,Você se sente mais motivada em relação ao seu futuro acadêmico/profissional após participar do RENACEE_MD ?,Impacto do projeto,bolsistas ICj
+,Avaliação Anual,Oportunidades,Todos,Dependente,O RENACEE_MD  contribuiu para ampliar suas oportunidades acadêmicas ou profissionais?,Impacto do projeto,bolsistas ICj
+,Avaliação Anual,Ações importantes,Todos,Dependente,Quais ações do RENACEE_MD você considera mais importantes na sua trajetória até agora?,Impacto do projeto,bolsistas ICj
+,Avaliação Anual,Melhorias,Todos,Dependente,O que poderia ser melhorado no RENACEE_MD?,Impacto do projeto,bolsistas ICj
+,Avaliação Anual,Intenção de permanência,Todos,Dependente,Você pretende continuar participando do ReNacEE_MD no futuro?,Impacto do projeto,bolsistas ICj
+Condição ambiental,Avaliação Anual,Cidade,Bolsista ICj e Professora EB,Independente,Em que Cidade/Estado você mora?,Perfil da participante,bolsistas ICj
+Domínio contextual,Avaliação Anual,Escola,Bolsista ICj e Professora EB,Independente,Em que escola você estuda?,Perfil da participante,bolsistas ICj
+Dimensão sociopolítica,Avaliação Anual,Tempo de participação no projeto,Bolsista ICj e Professora EB,Independente,Há quanto tempo você participa do RENACEE_MD?,Perfil da participante,bolsistas ICj
+,Avaliação Anual,Comentários,Bolsista ICj e Professora EB,Auxiliar,"Caso deseje, deixe aqui suas dúvidas ou comentários.",Perfil da participante,bolsistas ICj
+Dimensão sociopolítica,Perfil,Idade,Bolsista ICj,Independente,Qual sua idade?,Perfil da bolsista ICj,bolsistas ICj
+Condição ambiental,Perfil,Cidade,Bolsista ICj,Independente,Em que Cidade/Estado você mora?,Perfil da bolsista ICj,bolsistas ICj
+Domínio contextual,Perfil,Escola,Bolsista ICj,Independente,Em que escola você estuda?,Perfil da bolsista ICj,bolsistas ICj
+Domínio contextual,Perfil,Ano escolar,Bolsista ICj,Independente,Qual seu ano escolar atual?,Perfil da bolsista ICj,bolsistas ICj
+Domínio contextual,Perfil,Turno,Bolsista ICj,Independente,Em qual turno você estuda?,Perfil da bolsista ICj,bolsistas ICj
+Dimensão sociopolítica,Perfil,Raça/etnia,Bolsista ICj,Independente,Qual sua raça/etnia?,Perfil da bolsista ICj,bolsistas ICj
+Dimensão sociopolítica,Perfil,Maternidade,Bolsista ICj,Independente,Você é mãe?,Perfil da bolsista ICj,bolsistas ICj
+Dimensão sociopolítica,Perfil,Renda familiar,Bolsista ICj,Independente,Qual o valor aproximado da renda da sua família? (O salário mínimo em 2025 no Brasil é de R$ 1.518),Perfil da bolsista ICj,bolsistas ICj
+Dimensão sociopolítica,Perfil,Benefício social,Bolsista ICj,Independente,Você ou sua família recebem algum benefício social?  (pode marcar mais de uma opção),Perfil da bolsista ICj,bolsistas ICj
+Domínio contextual,Perfil,Espaço para estudo,Bolsista ICj,Independente,Você possui um espaço dedicado para estudo em casa?,Infraestrutura Tecnológica,bolsistas ICj
+Domínio contextual,Perfil,Acesso a dispositivos,Bolsista ICj,Independente,Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),Infraestrutura Tecnológica,bolsistas ICj
+Domínio contextual,Perfil,Acesso à internet,Bolsista ICj,Independente,Você possui acesso à internet em casa?  (pode marcar mais de uma opção),Infraestrutura Tecnológica,bolsistas ICj
+Domínio contextual,Perfil da professora da escola,Insfraestrutura da escola,Professora EB,Independente,"Na sua escola, há laboratórios ou equipamentos disponíveis para atividades com Computação?",Infraestrutura Tecnológica,bolsistas ICj
+Domínio contextual,Perfil da professora da escola,Acesso à tecnologia na escola,Professora EB,Independente,Seus estudantes tem acesso à tecnologia na escola?,Infraestrutura Tecnológica,bolsistas ICj
+Condição ambiental,Definir a partir da cidade,Região,,,,,bolsistas ICj
+,Avaliação Anual,Público-alvo,Todos,Auxiliar,Qual opção define sua participação no RENACEE_MD?,Participação no RENACEE_MD,professoras EB
+,Avaliação Anual,Nível de interesse por Computação,Professora EB,Dependente,"Após o 1o ano do projeto, como você avalia o seu interesse pela área de Computação?",Experiência com Computação e Ensino,professoras EB
+,Avaliação Anual,Frequencia de contato com Computação,Professora EB,Dependente,"Após o 1o ano do projeto, com que frequência você tem contato com atividades relacionadas à Computação em sala de aula?",Experiência com Computação e Ensino,professoras EB
+,Avaliação Anual,Frequencia de contato com atividades para inclusão de mulheres na Computação,Professora EB,Dependente,"Após o 1o ano do projeto, com que frequência você tem contato com atividades relacionadas à atração e retenção de meninas e mulheres na Computação?",Experiência com Computação e Ensino,professoras EB
+,Avaliação Anual,Nível de conhecimento em Computação,Professora EB,Dependente,"Após o 1o ano do projeto, como você avalia seu nível de conhecimento sobre Computação?",Experiência com Computação e Ensino,professoras EB
+,Perfil,Nível de interesse por Computação,Professora EB,Independente,"Antes de entrar no projeto, qual era o seu interesse pela área de Computação?",Experiência com Computação e Ensino,professoras EB
+,Perfil,Frequencia de contato com Computação,Professora EB,Independente,"Antes do projeto, com que frequência você tinha contato com atividades relacionadas à Computação em sala de aula?",Experiência com Computação e Ensino,professoras EB
+,Perfil,Frequencia de contato com atividades para inclusão de mulheres na Computação,Professora EB,Independente,"Antes do projeto, com que frequência você tinha contato com atividades relacionadas à atração e retenção de meninas e mulheres na Computação?",Experiência com Computação e Ensino,professoras EB
+,Perfil,Nível de conhecimento em Computação,Professora EB,Independente,Como você avalia seu nível de conhecimento sobre Computação antes do projeto?,Experiência com Computação e Ensino,professoras EB
+,Avaliação Anual,Autoeficacia ensino de Computação,Professora EB,Dependente,O quanto você se sente preparada para ensinar conceitos de Computação ou pensamento computacional em sala de aula?,Expectativas e Carreira,professoras EB
+,Avaliação Anual,Autoeficacia uso de tecnologias,Professora EB,Dependente,O quanto você se sente preparada para utilizar recursos de tecnologia em suas práticas pedagógicas?,Expectativas e Carreira,professoras EB
+,Avaliação Anual,Consciência desafios de mulheres na Computação,Professora EB,Dependente,O quanto você se considera consciente sobre os desafios das mulheres na Computação?,Expectativas e Carreira,professoras EB
+,Avaliação Anual,Motivação ao incentivo de inclusão de mulheres na Computação,Professora EB,Dependente,O quanto você se sente motivada a incentivar outras meninas e mulheres a ingressarem na Computação?,Expectativas e Carreira,professoras EB
+,Perfil,Autoeficacia ensino de Computação,Professora EB,Independente,O quanto você se sente preparada para ensinar conceitos de Computação ou pensamento computacional em sala de aula?,Expectativas para o projeto,professoras EB
+,Perfil,Autoeficacia uso de tecnologias,Professora EB,Independente,O quanto você se sente preparada para utilizar recursos de tecnologia em suas práticas pedagógicas?,Expectativas para o projeto,professoras EB
+,Perfil,Consciência desafios de mulheres na Computação,Professora EB,Independente,O quanto você se considera consciente sobre os desafios das mulheres na Computação?,Expectativas para o projeto,professoras EB
+,Perfil,Motivação ao incentivo de inclusão de mulheres na Computação,Professora EB,Independente,O quanto você se sente motivada a incentivar outras meninas e mulheres a ingressarem na Computação?,Expectativas para o projeto,professoras EB
+,Avaliação Anual,Conhecimento sobre linguagens de programação,Bolsista ICj e Professora EB,Dependente,Quais das seguintes linguagens de programação você já ouviu falar ou utilizou?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,professoras EB
+,Avaliação Anual,Uso de plataformas de programação,Bolsista ICj e Professora EB,Dependente,Quais destas plataformas você já utilizou para aprender programação?,Uso de Tecnologias e Aplicativos,professoras EB
+,Avaliação Anual,Uso de aplicativos ou ferramentas de tecnologia,Bolsista ICj e Professora EB,Dependente,Quais aplicativos ou ferramentas você já usou para aprender ou trabalhar com tecnologia?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,professoras EB
+,Avaliação Anual,Uso de sistemas operacionais,Bolsista ICj e Professora EB,Dependente,Você já utilizou algum sistema operacional?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,professoras EB
+,Perfil,Conhecimento sobre linguagens de programação,Professora EB,Independente,Quais das seguintes linguagens de programação você já ouviu falar ou utilizou?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,professoras EB
+,Perfil,Uso de plataformas de programação,Professora EB,Independente,Quais destas plataformas você já utilizou para aprender programação?,Uso de Tecnologias e Aplicativos,professoras EB
+,Perfil,Uso de aplicativos ou ferramentas de tecnologia,Professora EB,Independente,Quais aplicativos ou ferramentas você já usou para aprender ou trabalhar com tecnologia?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,professoras EB
+,Perfil,Uso de sistemas operacionais,Professora EB,Independente,Você já utilizou algum sistema operacional?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,professoras EB
+,Avaliação Anual,Satisfação,Todos,Dependente,O RENACEE_MD tem atendido suas expectativas?,Impacto do projeto,professoras EB
+,Avaliação Anual,Motivação,Todos,Dependente,Você se sente mais motivada em relação ao seu futuro acadêmico/profissional após participar do RENACEE_MD ?,Impacto do projeto,professoras EB
+,Avaliação Anual,Oportunidades,Todos,Dependente,O RENACEE_MD  contribuiu para ampliar suas oportunidades acadêmicas ou profissionais?,Impacto do projeto,professoras EB
+,Avaliação Anual,Ações importantes,Todos,Dependente,Quais ações do RENACEE_MD você considera mais importantes na sua trajetória até agora?,Impacto do projeto,professoras EB
+,Avaliação Anual,Melhorias,Todos,Dependente,O que poderia ser melhorado no RENACEE_MD?,Impacto do projeto,professoras EB
+,Avaliação Anual,Intenção de permanência,Todos,Dependente,Você pretende continuar participando do ReNacEE_MD no futuro?,Impacto do projeto,professoras EB
+,Avaliação Anual,Nome,Bolsista ICj e Professora EB,Auxiliar,Qual seu nome?,Perfil da participante,professoras EB
+,Avaliação Anual,Cidade,Bolsista ICj e Professora EB,Independente,Em que Cidade/Estado você mora?,Perfil da participante,professoras EB
+,Avaliação Anual,Escola,Bolsista ICj e Professora EB,Independente,Em que escola você leciona?,Perfil da participante,professoras EB
+,Avaliação Anual,Tempo de participação no projeto,Bolsista ICj e Professora EB,Independente,Há quanto tempo você participa do RENACEE_MD?,Perfil da participante,professoras EB
+,Avaliação Anual,Comentários,Bolsista ICj e Professora EB,Auxiliar,"Caso deseje, deixe aqui suas dúvidas ou comentários.",Perfil da participante,professoras EB
+Dimensão sociopolítica,Perfil,Idade,Professora EB,Independente,Qual sua idade?,Perfil da professora de educação básica,professoras EB
+Condição ambiental,Perfil,Cidade,Professora EB,Independente,Em que Cidade/Estado você mora?,Perfil da professora de educação básica,professoras EB
+Domínio contextual,Perfil,Escola,Professora EB,Independente,Em que escola você leciona?,Perfil da professora de educação básica,professoras EB
+Domínio contextual,Perfil,Turno,Professora EB,Independente,Em qual turno você leciona?,Perfil da professora de educação básica,professoras EB
+Domínio contextual,Perfil,Área de conhecimento de atuação,Professora EB,Independente,Em qual área de conhecimento você leciona?,Perfil da professora de educação básica,professoras EB
+Domínio contextual,Perfil,Nível de ensino de atuação,Professora EB,Independente,Você leciona em qual nível de ensino?,Perfil da professora de educação básica,professoras EB
+Dimensão sociopolítica,Perfil,Tempo de atuação,Professora EB,Independente,Há quanto tempo você atua como professora?,Perfil da professora de educação básica,professoras EB
+Dimensão sociopolítica,Perfil,Raça/etnia,Professora EB,Independente,Qual sua raça/etnia?,Perfil da professora de educação básica,professoras EB
+Dimensão sociopolítica,Perfil,Maternidade,Professora EB,Independente,Você é mãe?,Perfil da professora de educação básica,professoras EB
+Dimensão sociopolítica,Perfil,Renda familiar,Professora EB,Independente,Qual o valor aproximado da renda da sua família? (O salário mínimo em 2025 no Brasil é de R$ 1.518),Perfil da professora de educação básica,professoras EB
+Dimensão sociopolítica,Perfil,Benefício social,Professora EB,Independente,Você ou sua família recebem algum benefício social?  (pode marcar mais de uma opção),Perfil da professora de educação básica,professoras EB
+Domínio contextual,Perfil,Espaço para estudo,Professora EB,Independente,Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),Infraestrutura Tecnológica,professoras EB
+Domínio contextual,Perfil,Acesso à internet,Professora EB,Independente,Você possui acesso à internet em casa?  (pode marcar mais de uma opção),Infraestrutura Tecnológica,professoras EB
+Domínio contextual,Perfil,Insfraestrutura da escola,Professora EB,Independente,"Na sua escola, há laboratórios ou equipamentos disponíveis para atividades com Computação?",Infraestrutura Tecnológica,professoras EB
+Domínio contextual,Perfil,Acesso à tecnologia na escola,Professora EB,Independente,Seus estudantes tem acesso à tecnologia na escola?,Infraestrutura Tecnológica,professoras EB
+Condição ambiental,Definir a partir da cidade,Região,,,,,professoras EB
+,Avaliação anual,Consentimento,Todos,Auxiliar,Você leu e concorda em participar da pesquisa conforme descrito acima?,Termo de Consentimento Livre e Esclarecido (TCLE),bolsistas IC
+,Avaliação anual,Público-alvo,Todos,Auxiliar,Qual opção define sua participação no RENACEE_MD?,Participação no RENACEE_MD,bolsistas IC
+,Avaliação anual,Decisão carreira,Aluna de Graduação,Dependente,Você já decidiu qual caminho deseja seguir após a graduação?,Expectativas e Carreira,bolsistas IC
+,Avaliação anual,Preferência de carreira,Aluna de Graduação,Dependente,Qual caminho mais te interessa?,Expectativas e Carreira,bolsistas IC
+,Avaliação anual,Autoeficácia disciplinas,Aluna de Graduação,Dependente,O quanto você se sente preparada para fazer as disciplinas da sua graduação?,Expectativas e Carreira,bolsistas IC
+,Avaliação anual,Autoeficácia liderança,Aluna de Graduação,Dependente,"O quanto você se sente preparada para atuar como líder nas atividades da graduação, como por exemplo, trabalhos de grupo, apresentação de trabalhos, projetos de extensão e etc.",Expectativas e Carreira,bolsistas IC
+,Avaliação anual,Autoeficácia mercado,Aluna de Graduação e PG,Dependente,O quanto você se sente preparada para atuar no mercado de trabalho na Computação?,Expectativas e Carreira,bolsistas IC
+,Avaliação anual,Autoeficácia academia,Aluna de Graduação e PG,Dependente,O quanto você se sente preparada para atuar na academia na área da Computação?,Expectativas e Carreira,bolsistas IC
+,Avaliação anual,Consciência desafios de mulheres na Computação,Aluna de Graduação e PG,Dependente,O quanto você se considera consciente sobre os desafios das mulheres na Computação?,Expectativas e Carreira,bolsistas IC
+,Avaliação anual,Motivação ao incentivo de inclusão de mulheres na Computação,Aluna de Graduação e PG,Dependente,O quanto você se sente motivada a incentivar outras meninas e mulheres a ingressarem na Computação?,Expectativas e Carreira,bolsistas IC
+,Perfil,Decisão carreira,Aluna de Graduação,Independente,Você já decidiu qual caminho deseja seguir após a graduação?,Suas expectativas sobre você e para o projeto,bolsistas IC
+,Perfil,Preferência de carreira,Aluna de Graduação,Independente,Qual caminho mais te interessa?,Suas expectativas sobre você e para o projeto,bolsistas IC
+,Perfil,Autoeficácia disciplinas,Aluna de Graduação,Independente,O quanto você se sente preparada para fazer as disciplinas da sua graduação?,Sua vida de universitária,bolsistas IC
+,Perfil,Autoeficácia liderança,Aluna de Graduação,Independente,"O quanto você se sente preparada para atuar como líder nas atividades da graduação, como por exemplo, trabalhos de grupo, apresentação de trabalhos, projetos de extensão e etc.",Sua vida de universitária,bolsistas IC
+,Perfil,Autoeficácia mercado,Aluna de Graduação e PG,Independente,O quanto você se sente preparada para atuar no mercado de trabalho na Computação?,Suas expectativas sobre você e para o projeto,bolsistas IC
+,Perfil,Autoeficácia academia,Aluna de Graduação e PG,Independente,O quanto você se sente preparada para atuar na academia na área da Computação?,Suas expectativas sobre você e para o projeto,bolsistas IC
+,Perfil,Consciência desafios de mulheres na Computação,Aluna de Graduação e PG,Independente,O quanto você se considera consciente sobre os desafios das mulheres na Computação?,Suas expectativas sobre você e para o projeto,bolsistas IC
+,Perfil,Motivação ao incentivo de inclusão de mulheres na Computação,Aluna de Graduação e PG,Independente,O quanto você se sente motivada a incentivar outras meninas e mulheres a ingressarem na Computação?,Suas expectativas sobre você e para o projeto,bolsistas IC
+,Avaliação anual,Frequencia com Computação para EB,Aluna de Graduação e PG,Dependente,"Após o 1o ano do projeto, com que frequência você tem contato com atividades relacionadas à Computação para a Educação Básica?",Contato com a Computação,bolsistas IC
+,Avaliação anual,Nível de experiência com Computação para EB,Aluna de Graduação e PG,Dependente,"Após o 1o ano do projeto, como você avalia seu nível de experiência com projetos sobre Computação para educação básica?",Contato com a Computação,bolsistas IC
+,Avaliação anual,Frequencia de contato com atividades para inclusão de mulheres na Computação,Aluna de Graduação e PG,Dependente,"Após o 1o ano do projeto, com que frequência você tem contato com atividades relacionadas à atração e retenção de meninas e mulheres na Computação?",Contato com a Computação,bolsistas IC
+,Avaliação anual,Nível de experiência com projetos para inclusão de mulheres na Computação,Aluna de Graduação e PG,Dependente,"Após o 1o ano do projeto, como você avalia seu nível de experiência com projetos para atração e retenção de meninas e mulheres na Computação?",Contato com a Computação,bolsistas IC
+,Avaliação anual,Experiências práticas prévias,Aluna de Graduação e PG,Dependente,"Após o 1o ano do projeto, quais destas experiências práticas você teve?",Contato com a Computação,bolsistas IC
+,Avaliação anual,Participação em projeto parceiro,Aluna de Graduação e PG,Dependente,"Atualmente, você participa de algum projeto parceiro do Programa Meninas Digitais?",Contato com a Computação,bolsistas IC
+,Avaliação anual,Projeto parceiro,Aluna de Graduação e PG,Dependente,Caso tenha respondido SIM na pergunta anterior - Qual projeto parceiro você participa?,Contato com a Computação,bolsistas IC
+,Perfil,Frequencia com Computação para EB,Aluna de Graduação,Independente,"Antes do projeto, com que frequência você tinha contato com atividades relacionadas à Computação para a Educação Básica?",Contato e Experiência na Computação,bolsistas IC
+,Perfil,Nível de experiência com Computação para EB,Aluna de Graduação,Independente,Como você avalia seu nível de experiência com projetos sobre Computação para educação básica antes do RENACEE MD?,Contato e Experiência na Computação,bolsistas IC
+,Perfil,Frequencia de contato com atividades para inclusão de mulheres na Computação,Aluna de Graduação,Independente,"Antes do projeto, com que frequência você tinha contato com atividades relacionadas à atração e retenção de meninas e mulheres na Computação?",Contato e Experiência na Computação,bolsistas IC
+,Perfil,Nível de experiência com projetos para inclusão de mulheres na Computação,Aluna de Graduação,Independente,Como você avalia seu nível de experiência com projetos para atração e retenção de meninas e mulheres na Computação antes do RENACEE MD?,Contato e Experiência na Computação,bolsistas IC
+,Perfil,Experiências práticas prévias,Aluna de Graduação,Independente,"Antes do projeto, quais destas experiências práticas você teve?",Contato e Experiência na Computação,bolsistas IC
+,Perfil,Participação em projeto parceiro,Aluna de Graduação,Independente,Você participou ou participa de algum projeto parceiro do Programa Meninas Digitais?,Contato e Experiência na Computação,bolsistas IC
+,Perfil,Projeto parceiro,Aluna de Graduação,Independente,Caso tenha respondido SIM na pergunta anterior - Qual projeto parceiro você participou ou participa?,Contato e Experiência na Computação,bolsistas IC
+,Avaliação anual,Uso de linguagens de programação,Aluna de Graduação e PG,Dependente,Quais das seguintes linguagens de programação você já utilizou?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,bolsistas IC
+,Avaliação anual,Uso de plataformas para aprender programação,Aluna de Graduação e PG,Dependente,Quais destas plataformas você já utilizou para aprender programação?,Uso de Tecnologias e Aplicativos,bolsistas IC
+,Avaliação anual,Uso de plataformas para ensinar programação,Aluna de Graduação e PG,Dependente,Quais destas plataformas você já utilizou para ensinar programação?,Uso de Tecnologias e Aplicativos,bolsistas IC
+,Avaliação anual,Uso de ferramentas para aprender tecnologia,Aluna de Graduação e PG,Dependente,Quais aplicativos ou ferramentas você já usou para aprender tecnologia?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,bolsistas IC
+,Avaliação anual,Uso de ferramentas para ensinar tecnologia,Aluna de Graduação e PG,Dependente,Quais aplicativos ou ferramentas você já usou para ensinar tecnologia?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,bolsistas IC
+,Avaliação anual,Contato prévio com áreas da Computação,Aluna de Graduação e PG,Dependente,Quais das seguintes áreas você já teve contato acadêmico ou profissional? (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,bolsistas IC
+,Perfil,Uso de linguagens de programação,Aluna de Graduação,Independente,Quais das seguintes linguagens de programação você já utilizou?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,bolsistas IC
+,Perfil,Uso de plataformas para aprender programação,Aluna de Graduação,Independente,Quais destas plataformas você já utilizou para aprender programação?,Uso de Tecnologias e Aplicativos,bolsistas IC
+,Perfil,Uso de plataformas para ensinar programação,Aluna de Graduação,Independente,Quais destas plataformas você já utilizou para ensinar programação?,Uso de Tecnologias e Aplicativos,bolsistas IC
+,Perfil,Uso de ferramentas para aprender tecnologia,Aluna de Graduação,Independente,Quais aplicativos ou ferramentas você já usou para aprender tecnologia?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,bolsistas IC
+,Perfil,Uso de ferramentas para ensinar tecnologia,Aluna de Graduação,Independente,Quais aplicativos ou ferramentas você já usou para ensinar tecnologia?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,bolsistas IC
+,Perfil,Contato prévio com áreas da Computação,Aluna de Graduação,Independente,Quais das seguintes áreas você já teve contato acadêmico ou profissional? (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,bolsistas IC
+,Avaliação anual,Satisfação,Todos,Dependente,O RENACEE_MD tem atendido suas expectativas?,Impacto do projeto,bolsistas IC
+,Avaliação anual,Motivação,Todos,Dependente,Você se sente mais motivada em relação ao seu futuro acadêmico/profissional após participar do RENACEE_MD ?,Impacto do projeto,bolsistas IC
+,Avaliação anual,Oportunidades,Todos,Dependente,O RENACEE_MD  contribuiu para ampliar suas oportunidades acadêmicas ou profissionais?,Impacto do projeto,bolsistas IC
+,Avaliação anual,Ações importantes,Todos,Dependente,Quais ações do RENACEE_MD você considera mais importantes na sua trajetória até agora?,Impacto do projeto,bolsistas IC
+,Avaliação anual,Melhorias,Todos,Dependente,O que poderia ser melhorado no RENACEE_MD?,Impacto do projeto,bolsistas IC
+,Avaliação anual,Intenção de permanência,Todos,Dependente,Você pretende continuar participando do ReNacEE_MD no futuro?,Impacto do projeto,bolsistas IC
+,Avaliação anual,Nome,Aluna de Graduação e PG,Auxiliar,Qual seu nome?,Perfil da participante,bolsistas IC
+Condição ambiental,Avaliação anual,Cidade,Aluna de Graduação e PG,Independente,Em que Cidade/Estado você mora?,Perfil da participante,bolsistas IC
+Domínio contextual,Avaliação anual,Instituição,Aluna de Graduação e PG,Independente,Em que instituição você estuda?,Perfil da participante,bolsistas IC
+Dimensão sociopolítica,Avaliação anual,Tempo de participação no projeto,Aluna de Graduação e PG,Independente,Há quanto tempo você participa do RENACEE_MD?,Perfil da participante,bolsistas IC
+Domínio contextual,Perfil,Espaço para estudo,Aluna de Graduação,Independente,Você possui um espaço dedicado para estudo em casa?,Infraestrutura Tecnológica,bolsistas IC
+Domínio contextual,Perfil,Acesso a dispositivos,Aluna de Graduação,Independente,Quais dispositivos você tem disponível para uso pessoal? (pode marcar mais de uma opção),Infraestrutura Tecnológica,bolsistas IC
+Domínio contextual,Perfil,Acesso à internet,Aluna de Graduação,Independente,Você possui acesso à internet em casa?  (pode marcar mais de uma opção),Infraestrutura Tecnológica,bolsistas IC
+Domínio contextual,Perfil,Instituição,Aluna de Graduação,Independente,Em que instituição você estuda?,Sua vida de universitária,bolsistas IC
+Dimensão sociopolítica,Perfil,ENEM_Opcao1,Aluna de Graduação,Independente,"Quando você fez ENEM ou prova para entrar para a universidade, qual era a sua primeira opção de curso?",Sua vida de universitária,bolsistas IC
+Dimensão sociopolítica,Perfil,ENEM_Opcao2,Aluna de Graduação,Independente,"Quando você fez ENEM ou prova para entrar para a universidade, qual era a sua segunda opção de curso?",Sua vida de universitária,bolsistas IC
+Domínio contextual,Perfil,Curso de graduacao,Aluna de Graduação,Independente,Qual o seu curso atual de Graduação na área da Computação?,Sua vida de universitária,bolsistas IC
+Dimensão sociopolítica,Perfil,Ano ingresso,Aluna de Graduação,Independente,Em que ano entrou para a Universidade?,Sua vida de universitária,bolsistas IC
+Domínio contextual,Perfil,Semestre atual,Aluna de Graduação,Independente,Qual seu semestre atual?,Sua vida de universitária,bolsistas IC
+Dimensão sociopolítica,Perfil,Idade,Aluna de Graduação,Independente,Qual sua idade?,Perfil da bolsista IC,bolsistas IC
+Condição ambiental,Perfil,Cidade,Aluna de Graduação,Independente,Em que Cidade/Estado você mora?,Perfil da bolsista IC,bolsistas IC
+Dimensão sociopolítica,Perfil,Raça/etnia,Aluna de Graduação,Independente,Qual sua raça/etnia?,Perfil da bolsista IC,bolsistas IC
+Dimensão sociopolítica,Perfil,Maternidade,Aluna de Graduação,Independente,Você é mãe?,Perfil da bolsista IC,bolsistas IC
+Dimensão sociopolítica,Perfil,Renda familiar,Aluna de Graduação,Independente,Qual o valor aproximado da renda da sua família? (O salário mínimo em 2025 no Brasil é de R$ 1.518),Perfil da bolsista IC,bolsistas IC
+Dimensão sociopolítica,Perfil,Benefício social,Aluna de Graduação,Independente,Você ou sua família recebem algum benefício social?  (pode marcar mais de uma opção),Perfil da bolsista IC,bolsistas IC
+Condição ambiental,Definir a partir da cidade,Região,,,,,bolsistas IC
+,Avaliação anual,Consentimento,Todos,Auxiliar,Você leu e concorda em participar da pesquisa conforme descrito acima?,Termo de Consentimento Livre e Esclarecido (TCLE),estudantes PG
+,Avaliação anual,Público-alvo,Todos,Auxiliar,Qual opção define sua participação no RENACEE_MD?,Participação no RENACEE_MD,estudantes PG
+,Avaliação anual,Decisão carreira,Aluna PG,Dependente,Você já decidiu qual caminho deseja seguir após a pós-graduação?,Expectativas e Carreira,estudantes PG
+,Avaliação anual,Preferência de carreira,Aluna PG,Dependente,Qual caminho mais te interessa?,Expectativas e Carreira,estudantes PG
+,Avaliação anual,Autoeficácia disciplinas,Aluna PG,Dependente,O quanto você se sente preparada/o para fazer as disciplinas da pós-graduação?,Expectativas e Carreira,estudantes PG
+,Avaliação anual,Autoeficácia liderança,Aluna PG,Dependente,"O quanto você se sente preparada para atuar como líder nas atividades da pós-graduação, como por exemplo, trabalhos de grupo, apresentação de trabalhos, projetos de pesquisa e etc.",Expectativas e Carreira,estudantes PG
+,Avaliação anual,Autoeficácia mercado,Aluna de Graduação e PG,Dependente,O quanto você se sente preparada para atuar no mercado de trabalho na Computação?,Expectativas e Carreira,estudantes PG
+,Avaliação anual,Autoeficácia academia,Aluna de Graduação e PG,Dependente,O quanto você se sente preparada para atuar na academia na área da Computação?,Expectativas e Carreira,estudantes PG
+,Avaliação anual,Consciência desafios de mulheres na Computação,Aluna de Graduação e PG,Dependente,O quanto você se considera consciente sobre os desafios das mulheres na Computação?,Expectativas e Carreira,estudantes PG
+,Avaliação anual,Motivação ao incentivo de inclusão de mulheres na Computação,Aluna de Graduação e PG,Dependente,O quanto você se sente motivada a incentivar outras meninas e mulheres a ingressarem na Computação?,Expectativas e Carreira,estudantes PG
+,Perfil,Decisão carreira,Aluna PG,Independente,Você já decidiu qual caminho deseja seguir após a pós-graduação?,Suas expectativas sobre você e para o projeto,estudantes PG
+,Perfil,Preferência de carreira,Aluna PG,Independente,Qual caminho mais te interessa?,Suas expectativas sobre você e para o projeto,estudantes PG
+,Perfil,Autoeficácia disciplinas,Aluna PG,Independente,O quanto você se sente preparada/o para fazer as disciplinas da pós-graduação?,Sua vida Acadêmica,estudantes PG
+,Perfil,Autoeficácia liderança,Aluna PG,Independente,"O quanto você se sente preparada para atuar como líder nas atividades da pós-graduação, como por exemplo, trabalhos de grupo, apresentação de trabalhos, projetos de pesquisa e etc.",Sua vida Acadêmica,estudantes PG
+,Perfil,Autoeficácia mercado,Aluna de Graduação e PG,Independente,O quanto você se sente preparada para atuar no mercado de trabalho na Computação?,Suas expectativas sobre você e para o projeto,estudantes PG
+,Perfil,Autoeficácia academia,Aluna de Graduação e PG,Independente,O quanto você se sente preparada para atuar na academia na área da Computação?,Suas expectativas sobre você e para o projeto,estudantes PG
+,Perfil,Consciência desafios de mulheres na Computação,Aluna de Graduação e PG,Independente,O quanto você se considera consciente sobre os desafios das mulheres na Computação?,Suas expectativas sobre você e para o projeto,estudantes PG
+,Perfil,Motivação ao incentivo de inclusão de mulheres na Computação,Aluna de Graduação e PG,Independente,O quanto você se sente motivada a incentivar outras meninas e mulheres a ingressarem na Computação?,Suas expectativas sobre você e para o projeto,estudantes PG
+,Avaliação anual,Frequencia com Computação para EB,Aluna de Graduação e PG,Dependente,"Após o 1o ano do projeto, com que frequência você tem contato com atividades relacionadas à Computação para a Educação Básica?",Contato e Experiência na Computação,estudantes PG
+,Avaliação anual,Nível de experiência com Computação para EB,Aluna de Graduação e PG,Dependente,"Após o 1o ano do projeto, como você avalia seu nível de experiência com projetos sobre Computação para educação básica?",Contato e Experiência na Computação,estudantes PG
+,Avaliação anual,Frequencia de contato com atividades para inclusão de mulheres na Computação,Aluna de Graduação e PG,Dependente,"Após o 1o ano do projeto, com que frequência você tem contato com atividades relacionadas à atração e retenção de meninas e mulheres na Computação?",Contato e Experiência na Computação,estudantes PG
+,Avaliação anual,Nível de experiência com projetos para inclusão de mulheres na Computação,Aluna de Graduação e PG,Dependente,"Após o 1o ano do projeto, como você avalia seu nível de experiência com projetos para atração e retenção de meninas e mulheres na Computação?",Contato e Experiência na Computação,estudantes PG
+,Avaliação anual,Experiências práticas prévias,Aluna de Graduação e PG,Dependente,"Após o 1o ano do projeto, quais destas experiências práticas você teve?",Contato e Experiência na Computação,estudantes PG
+,Avaliação anual,Participação em projeto parceiro,Aluna de Graduação e PG,Dependente,"Atualmente, você participa de algum projeto parceiro do Programa Meninas Digitais?",Contato e Experiência na Computação,estudantes PG
+,Avaliação anual,Projeto parceiro,Aluna de Graduação e PG,Dependente,Caso tenha respondido SIM na pergunta anterior - Qual projeto parceiro você participa?,Contato e Experiência na Computação,estudantes PG
+,Perfil,Frequencia com Computação para EB,Aluna de Graduação e PG,Independente,"Antes do projeto, com que frequência você tinha contato com atividades relacionadas à Computação para a Educação Básica?",Contato e Experiência na Computação,estudantes PG
+,Perfil,Nível de experiência com Computação para EB,Aluna de Graduação e PG,Independente,Como você avalia seu nível de experiência com projetos sobre Computação para educação básica antes do RENACEE MD?,Contato e Experiência na Computação,estudantes PG
+,Perfil,Frequencia de contato com atividades para inclusão de mulheres na Computação,Aluna de Graduação e PG,Independente,"Antes do projeto, com que frequência você tinha contato com atividades relacionadas à atração e retenção de meninas e mulheres na Computação?",Contato e Experiência na Computação,estudantes PG
+,Perfil,Nível de experiência com projetos para inclusão de mulheres na Computação,Aluna de Graduação e PG,Independente,Como você avalia seu nível de experiência com projetos para atração e retenção de meninas e mulheres na Computação antes do RENACEE MD?,Contato e Experiência na Computação,estudantes PG
+,Perfil,Experiências práticas prévias,Aluna de Graduação e PG,Independente,"Antes do projeto, quais destas experiências práticas você teve?",Contato e Experiência na Computação,estudantes PG
+,Perfil,Participação em projeto parceiro,Aluna de Graduação e PG,Independente,Você participou ou participa de algum projeto parceiro do Programa Meninas Digitais?,Contato e Experiência na Computação,estudantes PG
+,Perfil,Projeto parceiro,Aluna de Graduação e PG,Independente,Caso tenha respondido SIM na pergunta anterior - Qual projeto parceiro você participou ou participa?,Contato e Experiência na Computação,estudantes PG
+,Avaliação anual,Uso de linguagens de programação,Aluna de Graduação e PG,Dependente,Quais das seguintes linguagens de programação você já utilizou?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,estudantes PG
+,Avaliação anual,Uso de plataformas para aprender programação,Aluna de Graduação e PG,Dependente,Quais destas plataformas você já utilizou para aprender programação?,Uso de Tecnologias e Aplicativos,estudantes PG
+,Avaliação anual,Uso de plataformas para ensinar programação,Aluna de Graduação e PG,Dependente,Quais destas plataformas você já utilizou para ensinar programação?,Uso de Tecnologias e Aplicativos,estudantes PG
+,Avaliação anual,Uso de ferramentas para aprender tecnologia,Aluna de Graduação e PG,Dependente,Quais aplicativos ou ferramentas você já usou para aprender tecnologia?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,estudantes PG
+,Avaliação anual,Uso de ferramentas para ensinar tecnologia,Aluna de Graduação e PG,Dependente,Quais aplicativos ou ferramentas você já usou para ensinar tecnologia?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,estudantes PG
+,Avaliação anual,Contato prévio com áreas da Computação,Aluna de Graduação e PG,Dependente,Quais das seguintes áreas você já teve contato acadêmico ou profissional? (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,estudantes PG
+,Perfil,Uso de linguagens de programação,Aluna PG,Independente,Quais das seguintes linguagens de programação você já utilizou?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,estudantes PG
+,Perfil,Uso de plataformas para aprender programação,Aluna PG,Independente,Quais destas plataformas você já utilizou para aprender programação?,Uso de Tecnologias e Aplicativos,estudantes PG
+,Perfil,Uso de plataformas para ensinar programação,Aluna PG,Independente,Quais destas plataformas você já utilizou para ensinar programação?,Uso de Tecnologias e Aplicativos,estudantes PG
+,Perfil,Uso de ferramentas para aprender tecnologia,Aluna PG,Independente,Quais aplicativos ou ferramentas você já usou para aprender tecnologia?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,estudantes PG
+,Perfil,Uso de ferramentas para ensinar tecnologia,Aluna PG,Independente,Quais aplicativos ou ferramentas você já usou para ensinar tecnologia?  (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,estudantes PG
+,Perfil,Contato prévio com áreas da Computação,Aluna PG,Independente,Quais das seguintes áreas você já teve contato acadêmico ou profissional? (pode marcar mais de uma opção),Uso de Tecnologias e Aplicativos,estudantes PG
+,Avaliação anual,Satisfação,Todos,Dependente,O RENACEE_MD tem atendido suas expectativas?,Impacto do projeto,estudantes PG
+,Avaliação anual,Motivação,Todos,Dependente,Você se sente mais motivada em relação ao seu futuro acadêmico/profissional após participar do RENACEE_MD ?,Impacto do projeto,estudantes PG
+,Avaliação anual,Oportunidades,Todos,Dependente,O RENACEE_MD  contribuiu para ampliar suas oportunidades acadêmicas ou profissionais?,Impacto do projeto,estudantes PG
+,Avaliação anual,Ações importantes,Todos,Dependente,Quais ações do RENACEE_MD você considera mais importantes na sua trajetória até agora?,Impacto do projeto,estudantes PG
+,Avaliação anual,Melhorias,Todos,Dependente,O que poderia ser melhorado no RENACEE_MD?,Impacto do projeto,estudantes PG
+,Avaliação anual,Intenção de permanência,Todos,Dependente,Você pretende continuar participando do ReNacEE_MD no futuro?,Impacto do projeto,estudantes PG
+Condição ambiental,Avaliação anual,Cidade,Aluna de Graduação e PG,Independente,Em que Cidade/Estado você mora?,Perfil da participante,estudantes PG
+Domínio contextual,Avaliação anual,Instituição,Aluna de Graduação e PG,Independente,Em que instituição você faz Pós-Graduação?,Perfil da participante,estudantes PG
+Dimensão sociopolítica,Avaliação anual,Tempo de participação no projeto,Aluna de Graduação e PG,Independente,Há quanto tempo você participa do RENACEE_MD?,Perfil da participante,estudantes PG
+Dimensão sociopolítica,Perfil,ENEM_Opcao1,Aluna de Graduação e PG,Independente,"Quando você fez ENEM ou prova para entrar para a universidade, qual era a sua primeira opção de curso?",Sua vida Acadêmica,estudantes PG
+Dimensão sociopolítica,Perfil,ENEM_Opcao2,Aluna de Graduação e PG,Independente,"Quando você fez ENEM ou prova para entrar para a universidade, qual era a sua segunda opção de curso?",Sua vida Acadêmica,estudantes PG
+Dimensão sociopolítica,Perfil,Ano ingresso,Aluna PG,Independente,Em que ano entrou para a o seu curso atual de pós-graduação?,Sua vida Acadêmica,estudantes PG
+Domínio contextual,Perfil,Semestre atual,Aluna PG,Independente,Qual seu semestre atual?,Sua vida Acadêmica,estudantes PG
+Domínio contextual,Perfil,Instituição,Aluna PG,Independente,Em que instituição você faz Pós-Graduação?,Sua vida Acadêmica,estudantes PG
+Domínio contextual,Perfil,Área de pesquisa,Aluna PG,Independente,Marque a(s) área(s) da sua pesquisa (pode marcar mais de uma opção),Sua vida Acadêmica,estudantes PG
+,Perfil,Tema de pesquisa,Aluna PG,Independente,Qual o tema da sua pesquisa atual de mestrado/doutorado?,Sua vida Acadêmica,estudantes PG
+Dimensão sociopolítica,Perfil,Idade,Aluna PG,Independente,Qual sua idade?,Perfil Estudante da Pos-graduação,estudantes PG
+Condição ambiental,Perfil,Cidade,Aluna PG,Independente,Em que Cidade/Estado você mora?,Perfil Estudante da Pos-graduação,estudantes PG
+Dimensão sociopolítica,Perfil,Raça/etnia,Aluna PG,Independente,Qual sua raça/etnia?,Perfil Estudante da Pos-graduação,estudantes PG
+Dimensão sociopolítica,Perfil,Gênero,Aluna PG,Independente,Qual o seu gênero?,Perfil Estudante da Pos-graduação,estudantes PG
+Dimensão sociopolítica,Perfil,Maternidade,Aluna PG,Independente,Você é mãe?,Perfil Estudante da Pos-graduação,estudantes PG
+Dimensão sociopolítica,Perfil,Renda familiar,Aluna PG,Independente,Qual o valor aproximado da renda da sua família? (O salário mínimo em 2025 no Brasil é de R$ 1.518),Perfil Estudante da Pos-graduação,estudantes PG
+Dimensão sociopolítica,Perfil,Benefício social,Aluna PG,Independente,Você ou sua família recebem algum benefício social?  (pode marcar mais de uma opção),Perfil Estudante da Pos-graduação,estudantes PG
+Dimensão sociopolítica,Perfil,Possui Bolsa,Aluna PG,Independente,Tem bolsa de Alguma Agência de Fomento ou Instituição Privada?,Perfil Estudante da Pos-graduação,estudantes PG
+Dimensão sociopolítica,Perfil,Agência financiadora da bolsa,Aluna PG,Independente,"Caso tenha respondido sim, qual bolsa e agencia?",Perfil Estudante da Pos-graduação,estudantes PG
+Condição ambiental,Definir a partir da cidade,Região,,,,,estudantes PG
